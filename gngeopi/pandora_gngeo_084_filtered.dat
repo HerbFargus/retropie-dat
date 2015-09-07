@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>gngeo</name>
+		<description>GnGeo Pandora Filtered</description>
+		<category>Standard DatFile</category>
+		<version>0.8.4</version>
+		<date>-insert date-</date>
+		<author>Ekstreme</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>Removed all clones\non-working\mahjong</comment>
+		<clrmamepro/>
+	</header>
+	<game name="2020bb">
+		<description>2020bb</description>
+		<rom name="030-c1.bin" size="1048576" crc="4f5e19bd"/>
+		<rom name="030-c2.bin" size="1048576" crc="d6314bf0"/>
+		<rom name="030-c3.bin" size="1048576" crc="47fddfee"/>
+		<rom name="030-c4.bin" size="1048576" crc="780d1c4e"/>
+		<rom name="030-m1.bin" size="131072" crc="4cf466ec"/>
+		<rom name="030-p1.bin" size="524288" crc="d396c9cb"/>
+		<rom name="030-s1.bin" size="131072" crc="7015b8fc"/>
+		<rom name="030-v1.bin" size="1048576" crc="d4ca364e"/>
+		<rom name="030-v2.bin" size="1048576" crc="54994455"/>
+	</game>
+	<game name="3countb">
+		<description>3countb</description>
+		<rom name="043-c1.bin" size="2097152" crc="bad2d67f"/>
+		<rom name="043-c2.bin" size="2097152" crc="a7fbda95"/>
+		<rom name="043-c3.bin" size="2097152" crc="f00be011"/>
+		<rom name="043-c4.bin" size="2097152" crc="1887e5c0"/>
+		<rom name="043-m1.bin" size="131072" crc="7eab59cb"/>
+		<rom name="043-p1.bin" size="1048576" crc="ffbdd928"/>
+		<rom name="043-s1.bin" size="131072" crc="c362d484"/>
+		<rom name="043-v1.bin" size="2097152" crc="63688ce8"/>
+		<rom name="043-v2.bin" size="2097152" crc="c69a827b"/>
+	</game>
+	<game name="alpham2">
+		<description>alpham2</description>
+		<rom name="007-c1.bin" size="1048576" crc="8fba8ff3"/>
+		<rom name="007-c2.bin" size="1048576" crc="4dad2945"/>
+		<rom name="007-c3.bin" size="524288" crc="68c2994e"/>
+		<rom name="007-c4.bin" size="524288" crc="7d588349"/>
+		<rom name="007-m1.bin" size="131072" crc="28dfe2cd"/>
+		<rom name="007-p1.bin" size="524288" crc="5b266f47"/>
+		<rom name="007-p2.bin" size="131072" crc="eb9c1044"/>
+		<rom name="007-s1.bin" size="131072" crc="85ec9acf"/>
+		<rom name="007-v1.bin" size="1048576" crc="cd5db931"/>
+		<rom name="007-v2.bin" size="1048576" crc="63e9b574"/>
+	</game>
+	<game name="androdun">
+		<description>androdun</description>
+		<rom name="049-c1.bin" size="1048576" crc="7ace6db3"/>
+		<rom name="049-c2.bin" size="1048576" crc="b17024f7"/>
+		<rom name="049-m1.bin" size="131072" crc="1a009f8c"/>
+		<rom name="049-p1.bin" size="524288" crc="3b857da2"/>
+		<rom name="049-p2.bin" size="524288" crc="2f062209"/>
+		<rom name="049-s1.bin" size="131072" crc="6349de5d"/>
+		<rom name="049-v1.bin" size="524288" crc="577c85b3"/>
+		<rom name="049-v2.bin" size="524288" crc="e14551c4"/>
+	</game>
+	<game name="aodk">
+		<description>aodk</description>
+		<rom name="074-c1.bin" size="2097152" crc="a0b39344"/>
+		<rom name="074-c2.bin" size="2097152" crc="203f6074"/>
+		<rom name="074-c3.bin" size="2097152" crc="7fff4d41"/>
+		<rom name="074-c4.bin" size="2097152" crc="48db3e0a"/>
+		<rom name="074-c5.bin" size="2097152" crc="c74c5e51"/>
+		<rom name="074-c6.bin" size="2097152" crc="73e8e7e0"/>
+		<rom name="074-c7.bin" size="2097152" crc="ac7daa01"/>
+		<rom name="074-c8.bin" size="2097152" crc="14e7ad71"/>
+		<rom name="074-m1.bin" size="131072" crc="5a52a9d1"/>
+		<rom name="074-p1.bin" size="2097152" crc="62369553"/>
+		<rom name="074-s1.bin" size="131072" crc="96148d2b"/>
+		<rom name="074-v1.bin" size="2097152" crc="7675b8fa"/>
+		<rom name="074-v2.bin" size="2097152" crc="a9da86e9"/>
+	</game>
+	<game name="aof">
+		<description>aof</description>
+		<rom name="044-c1.bin" size="2097152" crc="ddab98a7"/>
+		<rom name="044-c2.bin" size="2097152" crc="d8ccd575"/>
+		<rom name="044-c3.bin" size="2097152" crc="403e898a"/>
+		<rom name="044-c4.bin" size="2097152" crc="6235fbaa"/>
+		<rom name="044-m1.bin" size="131072" crc="981345f8"/>
+		<rom name="044-p1.bin" size="524288" crc="ca9f7a6d"/>
+		<rom name="044-s1.bin" size="131072" crc="89903f39"/>
+		<rom name="044-v2.bin" size="2097152" crc="3ec632ea"/>
+		<rom name="044-v4.bin" size="2097152" crc="4b0f8e23"/>
+	</game>
+	<game name="aof2">
+		<description>aof2</description>
+		<rom name="056-c1.bin" size="2097152" crc="17b9cbd2"/>
+		<rom name="056-c2.bin" size="2097152" crc="5fd76b67"/>
+		<rom name="056-c3.bin" size="2097152" crc="d2c88768"/>
+		<rom name="056-c4.bin" size="2097152" crc="db39b883"/>
+		<rom name="056-c5.bin" size="2097152" crc="c3074137"/>
+		<rom name="056-c6.bin" size="2097152" crc="31de68d3"/>
+		<rom name="056-c7.bin" size="2097152" crc="3f36df57"/>
+		<rom name="056-c8.bin" size="2097152" crc="e546d7a8"/>
+		<rom name="056-m1.bin" size="131072" crc="f27e9d52"/>
+		<rom name="056-p1.bin" size="1048576" crc="a3b1d021"/>
+		<rom name="056-s1.bin" size="131072" crc="8b02638e"/>
+		<rom name="056-v1.bin" size="2097152" crc="4628fde0"/>
+		<rom name="056-v2.bin" size="2097152" crc="b710e2f2"/>
+		<rom name="056-v3.bin" size="1048576" crc="d168c301"/>
+	</game>
+	<game name="aof3">
+		<description>aof3</description>
+		<rom name="096-c1.bin" size="4194304" crc="f17b8d89"/>
+		<rom name="096-c2.bin" size="4194304" crc="3840c508"/>
+		<rom name="096-c3.bin" size="4194304" crc="55f9ee1e"/>
+		<rom name="096-c4.bin" size="4194304" crc="585b7e47"/>
+		<rom name="096-c5.bin" size="4194304" crc="c75a753c"/>
+		<rom name="096-c6.bin" size="4194304" crc="9a9d2f7a"/>
+		<rom name="096-c7.bin" size="2097152" crc="51bd8ab2"/>
+		<rom name="096-c8.bin" size="2097152" crc="9a34f99c"/>
+		<rom name="096-m1.bin" size="131072" crc="cb07b659"/>
+		<rom name="096-p1.bin" size="1048576" crc="9edb420d"/>
+		<rom name="096-p2.bin" size="2097152" crc="4d5a2602"/>
+		<rom name="096-s1.bin" size="131072" crc="cc7fd344"/>
+		<rom name="096-v1.bin" size="2097152" crc="e2c32074"/>
+		<rom name="096-v2.bin" size="2097152" crc="a290eee7"/>
+		<rom name="096-v3.bin" size="2097152" crc="199d12ea"/>
+	</game>
+	<game name="bangbead">
+		<description>bangbead</description>
+		<rom name="259-c1.bin" size="8388608" crc="1f537f74"/>
+		<rom name="259-c2.bin" size="8388608" crc="0efd98ff"/>
+		<rom name="259-m1.bin" size="131072" crc="85668ee9"/>
+		<rom name="259-p1.bin" size="2097152" crc="88a37f8b"/>
+		<rom name="259-v1.bin" size="4194304" crc="088eb8ab"/>
+		<rom name="259-v2.bin" size="1048576" crc="97528fe9"/>
+	</game>
+	<game name="bjourney">
+		<description>bjourney</description>
+		<rom name="022-c1.bin" size="1048576" crc="4d47a48c"/>
+		<rom name="022-c2.bin" size="1048576" crc="e8c1491a"/>
+		<rom name="022-c3.bin" size="524288" crc="66e69753"/>
+		<rom name="022-c4.bin" size="524288" crc="71bfd48a"/>
+		<rom name="022-m1.bin" size="65536" crc="a9e30496"/>
+		<rom name="022-p1.bin" size="1048576" crc="6a2f6d4a"/>
+		<rom name="022-s1.bin" size="131072" crc="843c3624"/>
+		<rom name="022-v11.bin" size="1048576" crc="2cb4ad91"/>
+		<rom name="022-v22.bin" size="1048576" crc="65a54d13"/>
+	</game>
+	<game name="blazstar">
+		<description>blazstar</description>
+		<rom name="239-c1.bin" size="4194304" crc="84f6d584"/>
+		<rom name="239-c2.bin" size="4194304" crc="05a0cb22"/>
+		<rom name="239-c3.bin" size="4194304" crc="5fb69c9e"/>
+		<rom name="239-c4.bin" size="4194304" crc="0be028c4"/>
+		<rom name="239-c5.bin" size="4194304" crc="74bae5f8"/>
+		<rom name="239-c6.bin" size="4194304" crc="4e0700d2"/>
+		<rom name="239-c7.bin" size="4194304" crc="010ff4fd"/>
+		<rom name="239-c8.bin" size="4194304" crc="db60460e"/>
+		<rom name="239-m1.bin" size="131072" crc="d31a3aea"/>
+		<rom name="239-p1.bin" size="1048576" crc="183682f8"/>
+		<rom name="239-p2.bin" size="2097152" crc="9a9f4154"/>
+		<rom name="239-s1.bin" size="131072" crc="d56cb498"/>
+		<rom name="239-v1.bin" size="4194304" crc="1b8d5bf7"/>
+		<rom name="239-v2.bin" size="4194304" crc="74cf0a70"/>
+	</game>
+	<game name="breakers">
+		<description>breakers</description>
+		<rom name="230-c1.bin" size="4194304" crc="68d4ae76"/>
+		<rom name="230-c2.bin" size="4194304" crc="fdee05cd"/>
+		<rom name="230-c3.bin" size="4194304" crc="645077f3"/>
+		<rom name="230-c4.bin" size="4194304" crc="63aeb74c"/>
+		<rom name="230-m1.bin" size="131072" crc="3951a1c1"/>
+		<rom name="230-p1.bin" size="2097152" crc="ed24a6e6"/>
+		<rom name="230-s1.bin" size="131072" crc="076fb64c"/>
+		<rom name="230-v1.bin" size="4194304" crc="7f9ed279"/>
+		<rom name="230-v2.bin" size="4194304" crc="1d43e420"/>
+	</game>
+	<game name="breakrev">
+		<description>breakrev</description>
+		<rom name="245-c1.bin" size="4194304" crc="68d4ae76"/>
+		<rom name="245-c2.bin" size="4194304" crc="fdee05cd"/>
+		<rom name="245-c3.bin" size="4194304" crc="645077f3"/>
+		<rom name="245-c4.bin" size="4194304" crc="63aeb74c"/>
+		<rom name="245-c5.bin" size="4194304" crc="b5f40e7f"/>
+		<rom name="245-c6.bin" size="4194304" crc="d0337328"/>
+		<rom name="245-m1.bin" size="131072" crc="00f31c66"/>
+		<rom name="245-p1.bin" size="2097152" crc="c828876d"/>
+		<rom name="245-s1.bin" size="131072" crc="e7660a5d"/>
+		<rom name="245-v1.bin" size="4194304" crc="e255446c"/>
+		<rom name="245-v2.bin" size="4194304" crc="9068198a"/>
+	</game>
+	<game name="bstars">
+		<description>bstars</description>
+		<rom name="002-c1.bin" size="524288" crc="aaff2a45"/>
+		<rom name="002-c2.bin" size="524288" crc="3ba0f7e4"/>
+		<rom name="002-c3.bin" size="524288" crc="96f0fdfa"/>
+		<rom name="002-c4.bin" size="524288" crc="5fd87f2f"/>
+		<rom name="002-c5.bin" size="524288" crc="807ed83b"/>
+		<rom name="002-c6.bin" size="524288" crc="5a3cad41"/>
+		<rom name="002-m1.bin" size="65536" crc="79a8f4c2"/>
+		<rom name="002-p1.bin" size="524288" crc="3bc7790e"/>
+		<rom name="002-s1.bin" size="131072" crc="1a7fd0c6"/>
+		<rom name="002-v11.bin" size="524288" crc="b7b925bd"/>
+		<rom name="002-v12.bin" size="524288" crc="329f26fc"/>
+		<rom name="002-v13.bin" size="524288" crc="0c39f3c8"/>
+		<rom name="002-v14.bin" size="524288" crc="c7e11c38"/>
+		<rom name="002-v21.bin" size="524288" crc="04a733d1"/>
+	</game>
+	<game name="bstars2">
+		<description>bstars2</description>
+		<rom name="041-c1.bin" size="1048576" crc="b39a12e1"/>
+		<rom name="041-c2.bin" size="1048576" crc="766cfc2f"/>
+		<rom name="041-c3.bin" size="1048576" crc="fb31339d"/>
+		<rom name="041-c4.bin" size="1048576" crc="70457a0c"/>
+		<rom name="041-m1.bin" size="65536" crc="b2611c03"/>
+		<rom name="041-p1.bin" size="524288" crc="523567fd"/>
+		<rom name="041-s1.bin" size="131072" crc="015c5c94"/>
+		<rom name="041-v1.bin" size="1048576" crc="cb1da093"/>
+		<rom name="041-v2.bin" size="1048576" crc="1c954a9d"/>
+		<rom name="041-v3.bin" size="524288" crc="afaa0180"/>
+	</game>
+	<game name="burningf">
+		<description>burningf</description>
+		<rom name="018-c1.bin" size="1048576" crc="25a25e9b"/>
+		<rom name="018-c2.bin" size="1048576" crc="d4378876"/>
+		<rom name="018-c3.bin" size="1048576" crc="862b60da"/>
+		<rom name="018-c4.bin" size="1048576" crc="e2e0aff7"/>
+		<rom name="018-m1.bin" size="131072" crc="0c939ee2"/>
+		<rom name="018-p1.bin" size="524288" crc="4092c8db"/>
+		<rom name="018-s1.bin" size="131072" crc="6799ea0d"/>
+		<rom name="018-v1.bin" size="1048576" crc="508c9ffc"/>
+		<rom name="018-v2.bin" size="1048576" crc="854ef277"/>
+	</game>
+	<game name="crsword">
+		<description>crsword</description>
+		<rom name="037-c1.bin" size="1048576" crc="09df6892"/>
+		<rom name="037-c2.bin" size="1048576" crc="ac122a78"/>
+		<rom name="037-c3.bin" size="1048576" crc="9d7ed1ca"/>
+		<rom name="037-c4.bin" size="1048576" crc="4a24395d"/>
+		<rom name="037-m1.bin" size="131072" crc="9c384263"/>
+		<rom name="037-p1.bin" size="524288" crc="e7f2553c"/>
+		<rom name="037-s1.bin" size="131072" crc="74651f27"/>
+		<rom name="037-v1.bin" size="1048576" crc="61fedf65"/>
+	</game>
+	<game name="ctomaday">
+		<description>ctomaday</description>
+		<rom name="249-c1.bin" size="4194304" crc="041fb8ee"/>
+		<rom name="249-c2.bin" size="4194304" crc="74f3cdf4"/>
+		<rom name="249-m1.bin" size="131072" crc="80328a47"/>
+		<rom name="249-p1.bin" size="2097152" crc="c9386118"/>
+		<rom name="249-s1.bin" size="131072" crc="dc9eb372"/>
+		<rom name="249-v1.bin" size="4194304" crc="de7c8f27"/>
+		<rom name="249-v2.bin" size="1048576" crc="c8e40119"/>
+	</game>
+	<game name="cyberlip">
+		<description>cyberlip</description>
+		<rom name="010-c1.bin" size="524288" crc="8bba5113"/>
+		<rom name="010-c2.bin" size="524288" crc="cbf66432"/>
+		<rom name="010-c3.bin" size="524288" crc="e4f86efc"/>
+		<rom name="010-c4.bin" size="524288" crc="f7be4674"/>
+		<rom name="010-c5.bin" size="524288" crc="e8076da0"/>
+		<rom name="010-c6.bin" size="524288" crc="c495c567"/>
+		<rom name="010-m1.bin" size="65536" crc="47980d3a"/>
+		<rom name="010-p1.bin" size="524288" crc="69a6b42d"/>
+		<rom name="010-s1.bin" size="131072" crc="79a35264"/>
+		<rom name="010-v11.bin" size="524288" crc="90224d22"/>
+		<rom name="010-v12.bin" size="524288" crc="a0cf1834"/>
+		<rom name="010-v13.bin" size="524288" crc="ae38bc84"/>
+		<rom name="010-v14.bin" size="524288" crc="70899bd2"/>
+		<rom name="010-v21.bin" size="524288" crc="586f4cb2"/>
+	</game>
+	<game name="doubledr">
+		<description>doubledr</description>
+		<rom name="082-c1.bin" size="2097152" crc="b478c725"/>
+		<rom name="082-c2.bin" size="2097152" crc="2857da32"/>
+		<rom name="082-c3.bin" size="2097152" crc="8b0d378e"/>
+		<rom name="082-c4.bin" size="2097152" crc="c7d2f596"/>
+		<rom name="082-c5.bin" size="2097152" crc="ec87bff6"/>
+		<rom name="082-c6.bin" size="2097152" crc="844a8a11"/>
+		<rom name="082-c7.bin" size="1048576" crc="727c4d02"/>
+		<rom name="082-c8.bin" size="1048576" crc="69a5fa37"/>
+		<rom name="082-m1.bin" size="131072" crc="10b144de"/>
+		<rom name="082-p1.bin" size="2097152" crc="34ab832a"/>
+		<rom name="082-s1.bin" size="131072" crc="bef995c5"/>
+		<rom name="082-v1.bin" size="2097152" crc="cc1128e4"/>
+		<rom name="082-v2.bin" size="2097152" crc="c3ff5554"/>
+	</game>
+	<game name="eightman">
+		<description>eightman</description>
+		<rom name="025-c1.bin" size="1048576" crc="555e16a4"/>
+		<rom name="025-c2.bin" size="1048576" crc="e1ee51c3"/>
+		<rom name="025-c3.bin" size="524288" crc="0923d5b0"/>
+		<rom name="025-c4.bin" size="524288" crc="e3eca67b"/>
+		<rom name="025-m1.bin" size="131072" crc="9927034c"/>
+		<rom name="025-p1.bin" size="524288" crc="43344cb0"/>
+		<rom name="025-s1.bin" size="131072" crc="a402202b"/>
+		<rom name="025-v1.bin" size="1048576" crc="4558558a"/>
+		<rom name="025-v2.bin" size="1048576" crc="c5e052e9"/>
+	</game>
+	<game name="fatfursp">
+		<description>fatfursp</description>
+		<rom name="058-c1.bin" size="2097152" crc="044ab13c"/>
+		<rom name="058-c2.bin" size="2097152" crc="11e6bf96"/>
+		<rom name="058-c3.bin" size="2097152" crc="6f7938d5"/>
+		<rom name="058-c4.bin" size="2097152" crc="4ad066ff"/>
+		<rom name="058-c5.bin" size="2097152" crc="49c5e0bf"/>
+		<rom name="058-c6.bin" size="2097152" crc="8ff1f43d"/>
+		<rom name="058-m1.bin" size="131072" crc="ccc5186e"/>
+		<rom name="058-p1.bin" size="1048576" crc="2f585ba2"/>
+		<rom name="058-p2.bin" size="524288" crc="d7c71a6b"/>
+		<rom name="058-s1.bin" size="131072" crc="2df03197"/>
+		<rom name="058-v1.bin" size="2097152" crc="55d7ce84"/>
+		<rom name="058-v2.bin" size="2097152" crc="ee080b10"/>
+		<rom name="058-v3.bin" size="1048576" crc="f9eb3d4a"/>
+	</game>
+	<game name="fatfury1">
+		<description>fatfury1</description>
+		<rom name="033-c1.bin" size="1048576" crc="74317e54"/>
+		<rom name="033-c2.bin" size="1048576" crc="5bb952f3"/>
+		<rom name="033-c3.bin" size="1048576" crc="9b714a7c"/>
+		<rom name="033-c4.bin" size="1048576" crc="9397476a"/>
+		<rom name="033-m1.bin" size="131072" crc="a8603979"/>
+		<rom name="033-p1.bin" size="524288" crc="47ebdc2f"/>
+		<rom name="033-p2.bin" size="131072" crc="c473af1c"/>
+		<rom name="033-s1.bin" size="131072" crc="3c3bdf8c"/>
+		<rom name="033-v1.bin" size="1048576" crc="212fd20d"/>
+		<rom name="033-v2.bin" size="1048576" crc="fa2ae47f"/>
+	</game>
+	<game name="fatfury2">
+		<description>fatfury2</description>
+		<rom name="047-c1.bin" size="2097152" crc="f72a939e"/>
+		<rom name="047-c2.bin" size="2097152" crc="05119a0d"/>
+		<rom name="047-c3.bin" size="2097152" crc="01e00738"/>
+		<rom name="047-c4.bin" size="2097152" crc="9fe27432"/>
+		<rom name="047-m1.bin" size="131072" crc="820b0ba7"/>
+		<rom name="047-p1.bin" size="524288" crc="be40ea92"/>
+		<rom name="047-p2.bin" size="524288" crc="2a9beac5"/>
+		<rom name="047-s1.bin" size="131072" crc="d7dbbf39"/>
+		<rom name="047-v1.bin" size="2097152" crc="d9d00784"/>
+		<rom name="047-v2.bin" size="2097152" crc="2c9a4b33"/>
+	</game>
+	<game name="fbfrenzy">
+		<description>fbfrenzy</description>
+		<rom name="034-c1.bin" size="1048576" crc="91c56e78"/>
+		<rom name="034-c2.bin" size="1048576" crc="9743ea2f"/>
+		<rom name="034-c3.bin" size="524288" crc="e5aa65f5"/>
+		<rom name="034-c4.bin" size="524288" crc="0eb138cc"/>
+		<rom name="034-m1.bin" size="131072" crc="f41b16b8"/>
+		<rom name="034-p1.bin" size="524288" crc="cdef6b19"/>
+		<rom name="034-s1.bin" size="131072" crc="8472ed44"/>
+		<rom name="034-v1.bin" size="1048576" crc="50c9d0dd"/>
+		<rom name="034-v2.bin" size="1048576" crc="5aa15686"/>
+	</game>
+	<game name="fightfev">
+		<description>fightfev</description>
+		<rom name="060-c1.bin" size="2097152" crc="8908fff9"/>
+		<rom name="060-c2.bin" size="2097152" crc="c6649492"/>
+		<rom name="060-c3.bin" size="2097152" crc="0956b437"/>
+		<rom name="060-c4.bin" size="2097152" crc="026f3b62"/>
+		<rom name="060-m1.bin" size="131072" crc="0b7c4e65"/>
+		<rom name="060-p1.bin" size="524288" crc="3032041b"/>
+		<rom name="060-p2.bin" size="524288" crc="b0801d5f"/>
+		<rom name="060-s1.bin" size="131072" crc="70727a1e"/>
+		<rom name="060-v1.bin" size="2097152" crc="f417c215"/>
+		<rom name="060-v2.bin" size="1048576" crc="64470036"/>
+	</game>
+	<game name="flipshot">
+		<description>flipshot</description>
+		<rom name="247-c1.bin" size="2097152" crc="c9eedcb2"/>
+		<rom name="247-c2.bin" size="2097152" crc="7d6d6e87"/>
+		<rom name="247-m1.bin" size="131072" crc="a9fe0144"/>
+		<rom name="247-p1.bin" size="524288" crc="d2e7a7e3"/>
+		<rom name="247-s1.bin" size="131072" crc="6300185c"/>
+		<rom name="247-v1.bin" size="2097152" crc="42ec743d"/>
+	</game>
+	<game name="galaxyfg">
+		<description>galaxyfg</description>
+		<rom name="078-c1.bin" size="2097152" crc="c890c7c0"/>
+		<rom name="078-c2.bin" size="2097152" crc="b6d25419"/>
+		<rom name="078-c3.bin" size="2097152" crc="9d87e761"/>
+		<rom name="078-c4.bin" size="2097152" crc="765d7cb8"/>
+		<rom name="078-c5.bin" size="2097152" crc="e6b77e6a"/>
+		<rom name="078-c6.bin" size="2097152" crc="d779a181"/>
+		<rom name="078-c7.bin" size="1048576" crc="4f27d580"/>
+		<rom name="078-c8.bin" size="1048576" crc="0a7cc0d8"/>
+		<rom name="078-m1.bin" size="131072" crc="8e9e3b10"/>
+		<rom name="078-p1.bin" size="2097152" crc="45906309"/>
+		<rom name="078-s1.bin" size="131072" crc="72f8923e"/>
+		<rom name="078-v1.bin" size="2097152" crc="e3b735ac"/>
+		<rom name="078-v2.bin" size="2097152" crc="6a8e78c2"/>
+		<rom name="078-v3.bin" size="1048576" crc="70bca656"/>
+	</game>
+	<game name="ganryu">
+		<description>ganryu</description>
+		<rom name="252-c1.bin" size="8388608" crc="50ee7882"/>
+		<rom name="252-c2.bin" size="8388608" crc="62585474"/>
+		<rom name="252-m1.bin" size="131072" crc="30cc4099"/>
+		<rom name="252-p1.bin" size="2097152" crc="4b8ac4fb"/>
+		<rom name="252-v1.bin" size="4194304" crc="e5946733"/>
+	</game>
+	<game name="garou">
+		<description>garou</description>
+		<rom name="253-c1.bin" size="8388608" crc="0603e046"/>
+		<rom name="253-c2.bin" size="8388608" crc="0917d2a4"/>
+		<rom name="253-c3.bin" size="8388608" crc="6737c92d"/>
+		<rom name="253-c4.bin" size="8388608" crc="5ba92ec6"/>
+		<rom name="253-c5.bin" size="8388608" crc="3eab5557"/>
+		<rom name="253-c6.bin" size="8388608" crc="308d098b"/>
+		<rom name="253-c7.bin" size="8388608" crc="c0e995ae"/>
+		<rom name="253-c8.bin" size="8388608" crc="21a11303"/>
+		<rom name="253-ep1.p1" size="2097152" crc="ea3171a4"/>
+		<rom name="253-ep2.p2" size="2097152" crc="382f704b"/>
+		<rom name="253-ep3.p3" size="2097152" crc="e395bfdd"/>
+		<rom name="253-ep4.p4" size="2097152" crc="da92c08e"/>
+		<rom name="253-m1.bin" size="262144" crc="36a806be"/>
+		<rom name="253-sma.bin" size="262144" crc="98bc93dc"/>
+		<rom name="253-v1.bin" size="4194304" crc="263e388c"/>
+		<rom name="253-v2.bin" size="4194304" crc="2c6bc7be"/>
+		<rom name="253-v3.bin" size="4194304" crc="0425b27d"/>
+		<rom name="253-v4.bin" size="4194304" crc="a54be8a9"/>
+	</game>
+	<game name="ghostlop">
+		<description>ghostlop</description>
+		<rom name="gl-c1.rom" size="4194304" crc="bfc99efe"/>
+		<rom name="gl-c2.rom" size="4194304" crc="69788082"/>
+		<rom name="gl-m1.rom" size="131072" crc="fd833b33"/>
+		<rom name="gl-p1.rom" size="1048576" crc="6033172e"/>
+		<rom name="gl-s1.rom" size="131072" crc="83c24e81"/>
+		<rom name="gl-v1.rom" size="2097152" crc="c603fce6"/>
+	</game>
+	<game name="goalx3">
+		<description>goalx3</description>
+		<rom name="209-c1.bin" size="4194304" crc="b49d980e"/>
+		<rom name="209-c2.bin" size="4194304" crc="5649b015"/>
+		<rom name="209-c3.bin" size="1048576" crc="5f91bace"/>
+		<rom name="209-c4.bin" size="1048576" crc="1e9f76f2"/>
+		<rom name="209-m1.bin" size="65536" crc="dd945773"/>
+		<rom name="209-p1.bin" size="2097152" crc="2a019a79"/>
+		<rom name="209-s1.bin" size="131072" crc="c0eaad86"/>
+		<rom name="209-v1.bin" size="2097152" crc="ef214212"/>
+	</game>
+	<game name="gowcaizr">
+		<description>gowcaizr</description>
+		<rom name="094-c1.bin" size="2097152" crc="042f6af5"/>
+		<rom name="094-c2.bin" size="2097152" crc="0fbcd046"/>
+		<rom name="094-c3.bin" size="2097152" crc="58bfbaa1"/>
+		<rom name="094-c4.bin" size="2097152" crc="9451ee73"/>
+		<rom name="094-c5.bin" size="2097152" crc="ff9cf48c"/>
+		<rom name="094-c6.bin" size="2097152" crc="31bbd918"/>
+		<rom name="094-c7.bin" size="2097152" crc="2091ec04"/>
+		<rom name="094-c8.bin" size="2097152" crc="0d31dee6"/>
+		<rom name="094-m1.bin" size="131072" crc="78c851cb"/>
+		<rom name="094-p1.bin" size="2097152" crc="33019545"/>
+		<rom name="094-s1.bin" size="131072" crc="2f8748a2"/>
+		<rom name="094-v1.bin" size="2097152" crc="6c31223c"/>
+		<rom name="094-v2.bin" size="2097152" crc="8edb776c"/>
+		<rom name="094-v3.bin" size="1048576" crc="c63b9285"/>
+	</game>
+	<game name="gpilots">
+		<description>gpilots</description>
+		<rom name="020-c1.bin" size="1048576" crc="bd6fe78e"/>
+		<rom name="020-c2.bin" size="1048576" crc="5f4a925c"/>
+		<rom name="020-c3.bin" size="1048576" crc="d1e42fd0"/>
+		<rom name="020-c4.bin" size="1048576" crc="edde439b"/>
+		<rom name="020-m1.bin" size="131072" crc="48409377"/>
+		<rom name="020-p1.bin" size="524288" crc="e6f2fe64"/>
+		<rom name="020-p2.bin" size="131072" crc="edcb22ac"/>
+		<rom name="020-s1.bin" size="131072" crc="a6d83d53"/>
+		<rom name="020-v11.bin" size="1048576" crc="1b526c8b"/>
+		<rom name="020-v12.bin" size="524288" crc="4a9e6f03"/>
+		<rom name="020-v21.bin" size="524288" crc="7abf113d"/>
+	</game>
+	<game name="gururin">
+		<description>gururin</description>
+		<rom name="067-c1.bin" size="2097152" crc="35866126"/>
+		<rom name="067-c2.bin" size="2097152" crc="9db64084"/>
+		<rom name="067-m1.bin" size="65536" crc="833cdf1b"/>
+		<rom name="067-p1.bin" size="524288" crc="4cea8a49"/>
+		<rom name="067-s1.bin" size="131072" crc="4f0cbd58"/>
+		<rom name="067-v1.bin" size="524288" crc="cf23afd0"/>
+	</game>
+	<game name="joyjoy">
+		<description>joyjoy</description>
+		<rom name="021-c1.bin" size="524288" crc="509250ec"/>
+		<rom name="021-c2.bin" size="524288" crc="09ed5258"/>
+		<rom name="021-m1.bin" size="65536" crc="058683ec"/>
+		<rom name="021-p1.bin" size="524288" crc="39c3478f"/>
+		<rom name="021-s1.bin" size="131072" crc="6956d778"/>
+		<rom name="021-v1.bin" size="524288" crc="66c1e5c4"/>
+		<rom name="021-v2.bin" size="524288" crc="8ed20a86"/>
+	</game>
+	<game name="kabukikl">
+		<description>kabukikl</description>
+		<rom name="092-c1.bin" size="4194304" crc="2a9fab01"/>
+		<rom name="092-c2.bin" size="4194304" crc="6d2bac02"/>
+		<rom name="092-c3.bin" size="4194304" crc="5da735d6"/>
+		<rom name="092-c4.bin" size="4194304" crc="de07f997"/>
+		<rom name="092-m1.bin" size="131072" crc="91957ef6"/>
+		<rom name="092-p1.bin" size="2097152" crc="28ec9b77"/>
+		<rom name="092-s1.bin" size="131072" crc="a3d68ee2"/>
+		<rom name="092-v1.bin" size="2097152" crc="69e90596"/>
+		<rom name="092-v2.bin" size="2097152" crc="7abdb75d"/>
+		<rom name="092-v3.bin" size="2097152" crc="eccc98d3"/>
+		<rom name="092-v4.bin" size="1048576" crc="a7c9c949"/>
+	</game>
+	<game name="karnovr">
+		<description>karnovr</description>
+		<rom name="066-c1.bin" size="2097152" crc="09dfe061"/>
+		<rom name="066-c2.bin" size="2097152" crc="e0f6682a"/>
+		<rom name="066-c3.bin" size="2097152" crc="a673b4f7"/>
+		<rom name="066-c4.bin" size="2097152" crc="cb3dc5f4"/>
+		<rom name="066-c5.bin" size="2097152" crc="9a28785d"/>
+		<rom name="066-c6.bin" size="2097152" crc="c15c01ed"/>
+		<rom name="066-m1.bin" size="131072" crc="030beae4"/>
+		<rom name="066-p1.bin" size="1048576" crc="8c86fd22"/>
+		<rom name="066-s1.bin" size="131072" crc="bae5d5e5"/>
+		<rom name="066-v1.bin" size="2097152" crc="0b7ea37a"/>
+	</game>
+	<game name="kizuna">
+		<description>kizuna</description>
+		<rom name="059-c1.bin" size="2097152" crc="763ba611"/>
+		<rom name="059-c2.bin" size="2097152" crc="e05e8ca6"/>
+		<rom name="059-c5.bin" size="2097152" crc="59013f9e"/>
+		<rom name="059-c6.bin" size="2097152" crc="1c8d5def"/>
+		<rom name="059-c7.bin" size="2097152" crc="c88f7035"/>
+		<rom name="059-c8.bin" size="2097152" crc="484ce3ba"/>
+		<rom name="059-v1.bin" size="2097152" crc="530c50fd"/>
+		<rom name="059-v3.bin" size="2097152" crc="7038c2f9"/>
+		<rom name="216-c3.bin" size="4194304" crc="665c9f16"/>
+		<rom name="216-c4.bin" size="4194304" crc="7f5d03db"/>
+		<rom name="216-m1.bin" size="131072" crc="1b096820"/>
+		<rom name="216-p1.bin" size="2097152" crc="75d2b3de"/>
+		<rom name="216-s1.bin" size="131072" crc="efdc72d7"/>
+		<rom name="216-v2.bin" size="2097152" crc="03667a8d"/>
+		<rom name="216-v4.bin" size="2097152" crc="31b99bd6"/>
+	</game>
+	<game name="kof2002">
+		<description>kof2002</description>
+		<rom name="265-c1.bin" size="8388608" crc="2b65a656"/>
+		<rom name="265-c2.bin" size="8388608" crc="adf18983"/>
+		<rom name="265-c3.bin" size="8388608" crc="875e9fd7"/>
+		<rom name="265-c4.bin" size="8388608" crc="2da13947"/>
+		<rom name="265-c5.bin" size="8388608" crc="61bd165d"/>
+		<rom name="265-c6.bin" size="8388608" crc="03fdd1eb"/>
+		<rom name="265-c7.bin" size="8388608" crc="1a2749d8"/>
+		<rom name="265-c8.bin" size="8388608" crc="ab0bb549"/>
+		<rom name="265-m1.bin" size="131072" crc="85aaa632"/>
+		<rom name="265-m1_decrypted.bin" size="131072" crc="1c661a4b"/>
+		<rom name="265-p1.bin" size="1048576" crc="9ede7323"/>
+		<rom name="265-p2.bin" size="4194304" crc="327266b8"/>
+		<rom name="265-v1.bin" size="8388608" crc="15e8f3f5"/>
+		<rom name="265-v2.bin" size="8388608" crc="da41d6f9"/>
+	</game>
+	<game name="kof94">
+		<description>kof94</description>
+		<rom name="055-c1.bin" size="2097152" crc="b96ef460"/>
+		<rom name="055-c2.bin" size="2097152" crc="15e096a7"/>
+		<rom name="055-c3.bin" size="2097152" crc="54f66254"/>
+		<rom name="055-c4.bin" size="2097152" crc="0b01765f"/>
+		<rom name="055-c5.bin" size="2097152" crc="ee759363"/>
+		<rom name="055-c6.bin" size="2097152" crc="498da52c"/>
+		<rom name="055-c7.bin" size="2097152" crc="62f66888"/>
+		<rom name="055-c8.bin" size="2097152" crc="fe0a235d"/>
+		<rom name="055-m1.bin" size="131072" crc="f6e77cf5"/>
+		<rom name="055-p1.bin" size="2097152" crc="f10a2042"/>
+		<rom name="055-s1.bin" size="131072" crc="825976c1"/>
+		<rom name="055-v1.bin" size="2097152" crc="8889596d"/>
+		<rom name="055-v2.bin" size="2097152" crc="25022b27"/>
+		<rom name="055-v3.bin" size="2097152" crc="83cf32c0"/>
+	</game>
+	<game name="kof95">
+		<description>kof95</description>
+		<rom name="084-c1.bin" size="4194304" crc="fe087e32"/>
+		<rom name="084-c2.bin" size="4194304" crc="07864e09"/>
+		<rom name="084-c3.bin" size="4194304" crc="a4e65d1b"/>
+		<rom name="084-c4.bin" size="4194304" crc="c1ace468"/>
+		<rom name="084-c5.bin" size="2097152" crc="8a2c1edc"/>
+		<rom name="084-c6.bin" size="2097152" crc="f593ac35"/>
+		<rom name="084-c7.bin" size="1048576" crc="9904025f"/>
+		<rom name="084-c8.bin" size="1048576" crc="78eb0f9b"/>
+		<rom name="084-m1.bin" size="131072" crc="6f2d7429"/>
+		<rom name="084-p1.bin" size="2097152" crc="5e54cf95"/>
+		<rom name="084-s1.bin" size="131072" crc="de716f8a"/>
+		<rom name="084-v1.bin" size="4194304" crc="84861b56"/>
+		<rom name="084-v2.bin" size="2097152" crc="b38a2803"/>
+		<rom name="084-v3.bin" size="1048576" crc="d683a338"/>
+	</game>
+	<game name="kof96">
+		<description>kof96</description>
+		<rom name="214-c1.bin" size="4194304" crc="7ecf4aa2"/>
+		<rom name="214-c2.bin" size="4194304" crc="05b54f37"/>
+		<rom name="214-c3.bin" size="4194304" crc="64989a65"/>
+		<rom name="214-c4.bin" size="4194304" crc="afbea515"/>
+		<rom name="214-c5.bin" size="4194304" crc="2a3bbd26"/>
+		<rom name="214-c6.bin" size="4194304" crc="44d30dc7"/>
+		<rom name="214-c7.bin" size="4194304" crc="3687331b"/>
+		<rom name="214-c8.bin" size="4194304" crc="fa1461ad"/>
+		<rom name="214-m1.bin" size="131072" crc="dabc427c"/>
+		<rom name="214-p1.bin" size="1048576" crc="52755d74"/>
+		<rom name="214-p2.bin" size="2097152" crc="002ccb73"/>
+		<rom name="214-s1.bin" size="131072" crc="1254cbdb"/>
+		<rom name="214-v1.bin" size="4194304" crc="63f7b045"/>
+		<rom name="214-v2.bin" size="4194304" crc="25929059"/>
+		<rom name="214-v3.bin" size="2097152" crc="92a2257d"/>
+	</game>
+	<game name="kof97">
+		<description>kof97</description>
+		<rom name="232-c1.bin" size="8388608" crc="5f8bf0a1"/>
+		<rom name="232-c2.bin" size="8388608" crc="e4d45c81"/>
+		<rom name="232-c3.bin" size="8388608" crc="581d6618"/>
+		<rom name="232-c4.bin" size="8388608" crc="49bb1e68"/>
+		<rom name="232-c5.bin" size="4194304" crc="34fc4e51"/>
+		<rom name="232-c6.bin" size="4194304" crc="4ff4d47b"/>
+		<rom name="232-m1.bin" size="131072" crc="45348747"/>
+		<rom name="232-p1.bin" size="1048576" crc="7db81ad9"/>
+		<rom name="232-p2.bin" size="4194304" crc="158b23f6"/>
+		<rom name="232-s1.bin" size="131072" crc="8514ecf5"/>
+		<rom name="232-v1.bin" size="4194304" crc="22a2b5b5"/>
+		<rom name="232-v2.bin" size="4194304" crc="2304e744"/>
+		<rom name="232-v3.bin" size="4194304" crc="759eb954"/>
+	</game>
+	<game name="kof98">
+		<description>kof98</description>
+		<rom name="242-c1.bin" size="8388608" crc="e564ecd6"/>
+		<rom name="242-c2.bin" size="8388608" crc="bd959b60"/>
+		<rom name="242-c3.bin" size="8388608" crc="22127b4f"/>
+		<rom name="242-c4.bin" size="8388608" crc="0b4fa044"/>
+		<rom name="242-c5.bin" size="8388608" crc="9d10bed3"/>
+		<rom name="242-c6.bin" size="8388608" crc="da07b6a2"/>
+		<rom name="242-c7.bin" size="8388608" crc="f6d7a38a"/>
+		<rom name="242-c8.bin" size="8388608" crc="c823e045"/>
+		<rom name="242-m1a.bin" size="262144" crc="4ef7016b"/>
+		<rom name="242-p2.bin" size="4194304" crc="980aba4c"/>
+		<rom name="242-s1.bin" size="131072" crc="7f7b4805"/>
+		<rom name="242-v1.bin" size="4194304" crc="b9ea8051"/>
+		<rom name="242-v2.bin" size="4194304" crc="cc11106e"/>
+		<rom name="242-v3.bin" size="4194304" crc="044ea4e1"/>
+		<rom name="242-v4.bin" size="4194304" crc="7985ea30"/>
+		<rom name="yz98-p1.160" size="2097152" crc="8893df89"/>
+	</game>
+	<game name="kof99">
+		<description>kof99</description>
+		<rom name="251-c1.bin" size="8388608" crc="0f9e93fe"/>
+		<rom name="251-c2.bin" size="8388608" crc="e71e2ea3"/>
+		<rom name="251-c3.bin" size="8388608" crc="238755d2"/>
+		<rom name="251-c4.bin" size="8388608" crc="438c8b22"/>
+		<rom name="251-c5.bin" size="8388608" crc="0b0abd0a"/>
+		<rom name="251-c6.bin" size="8388608" crc="65bbf281"/>
+		<rom name="251-c7.bin" size="8388608" crc="ff65f62e"/>
+		<rom name="251-c8.bin" size="8388608" crc="8d921c68"/>
+		<rom name="251-m1.bin" size="131072" crc="5e74539c"/>
+		<rom name="251-p1.bin" size="4194304" crc="006e4532"/>
+		<rom name="251-pg2.bin" size="4194304" crc="d9057f51"/>
+		<rom name="251-sma.kc" size="262144" crc="6c9d0647"/>
+		<rom name="251-v1.bin" size="4194304" crc="ef2eecc8"/>
+		<rom name="251-v2.bin" size="4194304" crc="73e211ca"/>
+		<rom name="251-v3.bin" size="4194304" crc="821901da"/>
+		<rom name="251-v4.bin" size="2097152" crc="b49e6178"/>
+	</game>
+	<game name="kotm">
+		<description>kotm</description>
+		<rom name="016-c1.bin" size="1048576" crc="71471c25"/>
+		<rom name="016-c2.bin" size="1048576" crc="320db048"/>
+		<rom name="016-c3.bin" size="1048576" crc="98de7995"/>
+		<rom name="016-c4.bin" size="1048576" crc="070506e2"/>
+		<rom name="016-m1.bin" size="131072" crc="0296abcb"/>
+		<rom name="016-p1.bin" size="524288" crc="1b818731"/>
+		<rom name="016-p2.bin" size="131072" crc="12afdc2b"/>
+		<rom name="016-s1.bin" size="131072" crc="1a2eeeb3"/>
+		<rom name="016-v1.bin" size="1048576" crc="86c0a502"/>
+		<rom name="016-v2.bin" size="1048576" crc="5bc23ec5"/>
+	</game>
+	<game name="kotm2">
+		<description>kotm2</description>
+		<rom name="039-c1.bin" size="2097152" crc="6d1c4aa9"/>
+		<rom name="039-c2.bin" size="2097152" crc="f7b75337"/>
+		<rom name="039-c3.bin" size="524288" crc="bfc4f0b2"/>
+		<rom name="039-c4.bin" size="524288" crc="81c9c250"/>
+		<rom name="039-m1.bin" size="131072" crc="0c5b2ad5"/>
+		<rom name="039-p1.bin" size="524288" crc="b372d54c"/>
+		<rom name="039-p2.bin" size="524288" crc="28661afe"/>
+		<rom name="039-s1.bin" size="131072" crc="63ee053a"/>
+		<rom name="039-v2.bin" size="2097152" crc="86d34b25"/>
+		<rom name="039-v4.bin" size="1048576" crc="8fa62a0b"/>
+	</game>
+	<game name="lastblad">
+		<description>lastblad</description>
+		<rom name="234-c1.bin" size="8388608" crc="9f7e2bd3"/>
+		<rom name="234-c2.bin" size="8388608" crc="80623d3c"/>
+		<rom name="234-c3.bin" size="8388608" crc="91ab1a30"/>
+		<rom name="234-c4.bin" size="8388608" crc="3d60b037"/>
+		<rom name="234-c5.bin" size="4194304" crc="1ba80cee"/>
+		<rom name="234-c6.bin" size="4194304" crc="beafd091"/>
+		<rom name="234-m1.bin" size="131072" crc="087628ea"/>
+		<rom name="234-p1.bin" size="1048576" crc="e123a5a3"/>
+		<rom name="234-p2.bin" size="4194304" crc="0fdc289e"/>
+		<rom name="234-s1.bin" size="131072" crc="95561412"/>
+		<rom name="234-v1.bin" size="4194304" crc="ed66b76f"/>
+		<rom name="234-v2.bin" size="4194304" crc="a0e7f6e2"/>
+		<rom name="234-v3.bin" size="4194304" crc="a506e1e2"/>
+		<rom name="234-v4.bin" size="4194304" crc="0e34157f"/>
+	</game>
+	<game name="lastbld2">
+		<description>lastbld2</description>
+		<rom name="243-c1.bin" size="8388608" crc="5839444d"/>
+		<rom name="243-c2.bin" size="8388608" crc="dd087428"/>
+		<rom name="243-c3.bin" size="8388608" crc="6054cbe0"/>
+		<rom name="243-c4.bin" size="8388608" crc="8bd2a9d2"/>
+		<rom name="243-c5.bin" size="8388608" crc="6a503dcf"/>
+		<rom name="243-c6.bin" size="8388608" crc="ec9c36d0"/>
+		<rom name="243-m1.bin" size="131072" crc="acf12d10"/>
+		<rom name="243-pg1.bin" size="1048576" crc="af1e6554"/>
+		<rom name="243-pg2.bin" size="4194304" crc="add4a30b"/>
+		<rom name="243-s1.bin" size="131072" crc="c9cd2298"/>
+		<rom name="243-v1.bin" size="4194304" crc="f7ee6fbb"/>
+		<rom name="243-v2.bin" size="4194304" crc="aa9e4df6"/>
+		<rom name="243-v3.bin" size="4194304" crc="4ac750b2"/>
+		<rom name="243-v4.bin" size="4194304" crc="f5c64ba6"/>
+	</game>
+	<game name="lbowling">
+		<description>lbowling</description>
+		<rom name="019-c1.bin" size="524288" crc="4ccdef18"/>
+		<rom name="019-c2.bin" size="524288" crc="d4dd0802"/>
+		<rom name="019-m1.bin" size="131072" crc="589d7f25"/>
+		<rom name="019-p1.bin" size="524288" crc="a2de8445"/>
+		<rom name="019-s1.bin" size="131072" crc="5fcdc0ed"/>
+		<rom name="019-v11.bin" size="524288" crc="0fb74872"/>
+		<rom name="019-v12.bin" size="524288" crc="029faa57"/>
+		<rom name="019-v21.bin" size="524288" crc="2efd5ada"/>
+	</game>
+	<game name="legendos">
+		<description>legendos</description>
+		<rom name="029-c1.bin" size="1048576" crc="2f5ab875"/>
+		<rom name="029-c2.bin" size="1048576" crc="318b2711"/>
+		<rom name="029-c3.bin" size="1048576" crc="6bc52cb2"/>
+		<rom name="029-c4.bin" size="1048576" crc="37ef298c"/>
+		<rom name="029-m1.bin" size="65536" crc="909d4ed9"/>
+		<rom name="029-p1.bin" size="524288" crc="9d563f19"/>
+		<rom name="029-s1.bin" size="131072" crc="bcd502f0"/>
+		<rom name="029-v1.bin" size="1048576" crc="85065452"/>
+	</game>
+	<game name="lresort">
+		<description>lresort</description>
+		<rom name="024-c1.bin" size="1048576" crc="3617c2dc"/>
+		<rom name="024-c2.bin" size="1048576" crc="3f0a7fd8"/>
+		<rom name="024-c3.bin" size="524288" crc="e9f745f8"/>
+		<rom name="024-c4.bin" size="524288" crc="7382fefb"/>
+		<rom name="024-m1.bin" size="131072" crc="cec19742"/>
+		<rom name="024-p1.bin" size="524288" crc="89c4ab97"/>
+		<rom name="024-s1.bin" size="131072" crc="5cef5cc6"/>
+		<rom name="024-v1.bin" size="1048576" crc="efdfa063"/>
+		<rom name="024-v2.bin" size="1048576" crc="3c7997c0"/>
+	</game>
+	<game name="magdrop2">
+		<description>magdrop2</description>
+		<rom name="221-c1.bin" size="4194304" crc="1f862a14"/>
+		<rom name="221-c2.bin" size="4194304" crc="14b90536"/>
+		<rom name="221-m1.bin" size="131072" crc="bddae628"/>
+		<rom name="221-p1.bin" size="524288" crc="7be82353"/>
+		<rom name="221-s1.bin" size="131072" crc="2a4063a3"/>
+		<rom name="221-v1.bin" size="2097152" crc="7e5e53e4"/>
+	</game>
+	<game name="magdrop3">
+		<description>magdrop3</description>
+		<rom name="233-c1.bin" size="4194304" crc="65e3f4c4"/>
+		<rom name="233-c2.bin" size="4194304" crc="35dea6c9"/>
+		<rom name="233-c3.bin" size="4194304" crc="0ba2c502"/>
+		<rom name="233-c4.bin" size="4194304" crc="70dbbd6d"/>
+		<rom name="233-m1.bin" size="131072" crc="5beaf34e"/>
+		<rom name="233-p1.bin" size="1048576" crc="931e17fa"/>
+		<rom name="233-s1.bin" size="131072" crc="7399e68a"/>
+		<rom name="233-v1.bin" size="4194304" crc="58839298"/>
+		<rom name="233-v2.bin" size="524288" crc="d5e30df4"/>
+	</game>
+	<game name="maglord">
+		<description>maglord</description>
+		<rom name="005-c1.bin" size="524288" crc="806aee34"/>
+		<rom name="005-c2.bin" size="524288" crc="34aa9a86"/>
+		<rom name="005-c3.bin" size="524288" crc="c4c2b926"/>
+		<rom name="005-c4.bin" size="524288" crc="9c46dcf4"/>
+		<rom name="005-c5.bin" size="524288" crc="69086dec"/>
+		<rom name="005-c6.bin" size="524288" crc="ab7ac142"/>
+		<rom name="005-m1.bin" size="262144" crc="26259f0f"/>
+		<rom name="005-p1.bin" size="524288" crc="bd0a492d"/>
+		<rom name="005-pg1.bin" size="524288" crc="599043c5"/>
+		<rom name="005-s1.bin" size="131072" crc="1c5369a2"/>
+		<rom name="005-v11.bin" size="524288" crc="cc0455fd"/>
+		<rom name="005-v21.bin" size="524288" crc="f94ab5b7"/>
+		<rom name="005-v22.bin" size="524288" crc="232cfd04"/>
+	</game>
+	<game name="matrim">
+		<description>matrim</description>
+		<rom name="266-c1.bin" size="8388608" crc="505f4e30"/>
+		<rom name="266-c2.bin" size="8388608" crc="3cb57482"/>
+		<rom name="266-c3.bin" size="8388608" crc="f1cc6ad0"/>
+		<rom name="266-c4.bin" size="8388608" crc="45b806b7"/>
+		<rom name="266-c5.bin" size="8388608" crc="9a15dd6b"/>
+		<rom name="266-c6.bin" size="8388608" crc="281cb939"/>
+		<rom name="266-c7.bin" size="8388608" crc="4b71f780"/>
+		<rom name="266-c8.bin" size="8388608" crc="29873d33"/>
+		<rom name="266-m1.bin" size="131072" crc="456c3e6c"/>
+		<rom name="266-m1_decrypted.bin" size="131072" crc="d2f3742d"/>
+		<rom name="266-p1.bin" size="1048576" crc="5d4c2dc7"/>
+		<rom name="266-p2.bin" size="4194304" crc="a14b1906"/>
+		<rom name="266-v1.bin" size="8388608" crc="a4f83690"/>
+		<rom name="266-v2.bin" size="8388608" crc="d0f69eda"/>
+	</game>
+	<game name="miexchng">
+		<description>miexchng</description>
+		<rom name="231-c1.bin" size="2097152" crc="6c403ba3"/>
+		<rom name="231-c2.bin" size="2097152" crc="554bcd9b"/>
+		<rom name="231-c3.bin" size="524288" crc="14524eb5"/>
+		<rom name="231-c4.bin" size="524288" crc="1694f171"/>
+		<rom name="231-m1.bin" size="131072" crc="de41301b"/>
+		<rom name="231-p1.bin" size="524288" crc="61be1810"/>
+		<rom name="231-s1.bin" size="131072" crc="fe0c0c53"/>
+		<rom name="231-v1.bin" size="4194304" crc="113fb898"/>
+	</game>
+	<game name="mslug">
+		<description>mslug</description>
+		<rom name="201-c1.bin" size="4194304" crc="72813676"/>
+		<rom name="201-c2.bin" size="4194304" crc="96f62574"/>
+		<rom name="201-c3.bin" size="4194304" crc="5121456a"/>
+		<rom name="201-c4.bin" size="4194304" crc="f4ad59a3"/>
+		<rom name="201-m1.bin" size="131072" crc="c28b3253"/>
+		<rom name="201-p1.bin" size="2097152" crc="08d8daa5"/>
+		<rom name="201-s1.bin" size="131072" crc="2f55958d"/>
+		<rom name="201-v1.bin" size="4194304" crc="23d22ed1"/>
+		<rom name="201-v2.bin" size="4194304" crc="472cf9db"/>
+	</game>
+	<game name="mslug2">
+		<description>mslug2</description>
+		<rom name="241-c1.bin" size="8388608" crc="394b5e0d"/>
+		<rom name="241-c2.bin" size="8388608" crc="e5806221"/>
+		<rom name="241-c3.bin" size="8388608" crc="9f6bfa6f"/>
+		<rom name="241-c4.bin" size="8388608" crc="7d3e306f"/>
+		<rom name="241-m1.bin" size="131072" crc="94520ebd"/>
+		<rom name="241-p1.bin" size="1048576" crc="2a53c5da"/>
+		<rom name="241-p2.bin" size="2097152" crc="38883f44"/>
+		<rom name="241-s1.bin" size="131072" crc="f3d32f0f"/>
+		<rom name="241-v1.bin" size="4194304" crc="99ec20e8"/>
+		<rom name="241-v2.bin" size="4194304" crc="ecb16799"/>
+	</game>
+	<game name="mslug3">
+		<description>mslug3</description>
+		<rom name="256-c1.bin" size="8388608" crc="5a79c34e"/>
+		<rom name="256-c2.bin" size="8388608" crc="944c362c"/>
+		<rom name="256-c3.bin" size="8388608" crc="6e69d36f"/>
+		<rom name="256-c4.bin" size="8388608" crc="b755b4eb"/>
+		<rom name="256-c5.bin" size="8388608" crc="7aacab47"/>
+		<rom name="256-c6.bin" size="8388608" crc="c698fd5d"/>
+		<rom name="256-c7.bin" size="8388608" crc="cfceddd2"/>
+		<rom name="256-c8.bin" size="8388608" crc="4d9be34c"/>
+		<rom name="256-m1.bin" size="524288" crc="eaeec116"/>
+		<rom name="256-p1.bin" size="4194304" crc="b07edfd5"/>
+		<rom name="256-p2.bin" size="4194304" crc="6097c26b"/>
+		<rom name="256-sma.bin" size="262144" crc="9cd55736"/>
+		<rom name="256-v1.bin" size="4194304" crc="f2690241"/>
+		<rom name="256-v2.bin" size="4194304" crc="7e2a10bd"/>
+		<rom name="256-v3.bin" size="4194304" crc="0eaec17c"/>
+		<rom name="256-v4.bin" size="4194304" crc="9b4b22d4"/>
+	</game>
+	<game name="mslug4">
+		<description>mslug4</description>
+		<rom name="263-c1.bin" size="8388608" crc="84865f8a"/>
+		<rom name="263-c2.bin" size="8388608" crc="81df97f2"/>
+		<rom name="263-c3.bin" size="8388608" crc="1a343323"/>
+		<rom name="263-c4.bin" size="8388608" crc="942cfb44"/>
+		<rom name="263-c5.bin" size="8388608" crc="a748854f"/>
+		<rom name="263-c6.bin" size="8388608" crc="5c8ba116"/>
+		<rom name="263-m1.bin" size="131072" crc="46ac8228"/>
+		<rom name="263-m1_decrypted.bin" size="131072" crc="ef5db532"/>
+		<rom name="263-p2.bin" size="4194304" crc="fdb7aed8"/>
+		<rom name="263-pg1.bin" size="1048576" crc="27e4def3"/>
+		<rom name="263-v1.bin" size="8388608" crc="01e9b9cd"/>
+		<rom name="263-v2.bin" size="8388608" crc="4ab2bf81"/>
+	</game>
+	<game name="mslugx">
+		<description>mslugx</description>
+		<rom name="250-c1.bin" size="8388608" crc="09a52c6f"/>
+		<rom name="250-c2.bin" size="8388608" crc="31679821"/>
+		<rom name="250-c3.bin" size="8388608" crc="fd602019"/>
+		<rom name="250-c4.bin" size="8388608" crc="31354513"/>
+		<rom name="250-c5.bin" size="8388608" crc="a4b56124"/>
+		<rom name="250-c6.bin" size="8388608" crc="83e3e69d"/>
+		<rom name="250-m1.bin" size="131072" crc="fd42a842"/>
+		<rom name="250-p1.bin" size="1048576" crc="81f1f60b"/>
+		<rom name="250-p2.bin" size="4194304" crc="1fda2e12"/>
+		<rom name="250-s1.bin" size="131072" crc="fb6f441d"/>
+		<rom name="250-v1.bin" size="4194304" crc="c79ede73"/>
+		<rom name="250-v2.bin" size="4194304" crc="ea9aabe1"/>
+		<rom name="250-v3.bin" size="2097152" crc="2ca65102"/>
+	</game>
+	<game name="mutnat">
+		<description>mutnat</description>
+		<rom name="014-c1.bin" size="1048576" crc="5e4381bf"/>
+		<rom name="014-c2.bin" size="1048576" crc="69ba4e18"/>
+		<rom name="014-c3.bin" size="1048576" crc="890327d5"/>
+		<rom name="014-c4.bin" size="1048576" crc="e4002651"/>
+		<rom name="014-m1.bin" size="131072" crc="b6683092"/>
+		<rom name="014-p1.bin" size="524288" crc="6f1699c8"/>
+		<rom name="014-s1.bin" size="131072" crc="99419733"/>
+		<rom name="014-v1.bin" size="1048576" crc="25419296"/>
+		<rom name="014-v2.bin" size="1048576" crc="0de53d5e"/>
+	</game>
+	<game name="nam1975">
+		<description>nam1975</description>
+		<rom name="001-c1.bin" size="524288" crc="32ea98e1"/>
+		<rom name="001-c2.bin" size="524288" crc="cbc4064c"/>
+		<rom name="001-c3.bin" size="524288" crc="0151054c"/>
+		<rom name="001-c4.bin" size="524288" crc="0a32570d"/>
+		<rom name="001-c5.bin" size="524288" crc="90b74cc2"/>
+		<rom name="001-c6.bin" size="524288" crc="e62bed58"/>
+		<rom name="001-m1.bin" size="65536" crc="cd088502"/>
+		<rom name="001-p1.bin" size="524288" crc="cc9fc951"/>
+		<rom name="001-s1.bin" size="65536" crc="8ded55a5"/>
+		<rom name="001-v11.bin" size="524288" crc="a7c3d5e5"/>
+		<rom name="001-v21.bin" size="524288" crc="55e670b3"/>
+		<rom name="001-v22.bin" size="524288" crc="ab0d8368"/>
+		<rom name="001-v23.bin" size="524288" crc="df468e28"/>
+	</game>
+	<game name="ncombat">
+		<description>ncombat</description>
+		<rom name="009-c1.bin" size="524288" crc="33cc838e"/>
+		<rom name="009-c2.bin" size="524288" crc="26877feb"/>
+		<rom name="009-c3.bin" size="524288" crc="3b60a05d"/>
+		<rom name="009-c4.bin" size="524288" crc="39c2d039"/>
+		<rom name="009-c5.bin" size="524288" crc="67a4344e"/>
+		<rom name="009-c6.bin" size="524288" crc="2eca8b19"/>
+		<rom name="009-m1.bin" size="131072" crc="b5819863"/>
+		<rom name="009-p1.bin" size="524288" crc="b45fcfbf"/>
+		<rom name="009-s1.bin" size="131072" crc="d49afee8"/>
+		<rom name="009-v11.bin" size="524288" crc="cf32a59c"/>
+		<rom name="009-v12.bin" size="524288" crc="7b3588b7"/>
+		<rom name="009-v13.bin" size="524288" crc="505a01b5"/>
+		<rom name="009-v21.bin" size="524288" crc="365f9011"/>
+	</game>
+	<game name="ncommand">
+		<description>ncommand</description>
+		<rom name="050-c1.bin" size="1048576" crc="87421a0a"/>
+		<rom name="050-c2.bin" size="1048576" crc="c4cf5548"/>
+		<rom name="050-c3.bin" size="1048576" crc="03422c1e"/>
+		<rom name="050-c4.bin" size="1048576" crc="0845eadb"/>
+		<rom name="050-m1.bin" size="131072" crc="6fcf07d3"/>
+		<rom name="050-p1.bin" size="1048576" crc="4e097c40"/>
+		<rom name="050-s1.bin" size="131072" crc="db8f9c8e"/>
+		<rom name="050-v1.bin" size="1048576" crc="23c3ab42"/>
+		<rom name="050-v2.bin" size="524288" crc="80b8a984"/>
+	</game>
+	<game name="neobombe">
+		<description>neobombe</description>
+		<rom name="093-c1.bin" size="4194304" crc="d1f328f8"/>
+		<rom name="093-c2.bin" size="4194304" crc="82c49540"/>
+		<rom name="093-c3.bin" size="524288" crc="e37578c5"/>
+		<rom name="093-c4.bin" size="524288" crc="59826783"/>
+		<rom name="093-m1.bin" size="131072" crc="e81e780b"/>
+		<rom name="093-p1.bin" size="1048576" crc="a1a71d0d"/>
+		<rom name="093-s1.bin" size="131072" crc="4b3fa119"/>
+		<rom name="093-v1.bin" size="4194304" crc="02abd4b0"/>
+		<rom name="093-v2.bin" size="2097152" crc="a92b8b3d"/>
+	</game>
+	<game name="neocup98">
+		<description>neocup98</description>
+		<rom name="244-c1.bin" size="8388608" crc="c7a62b23"/>
+		<rom name="244-c2.bin" size="8388608" crc="33aa0f35"/>
+		<rom name="244-m1.bin" size="131072" crc="a701b276"/>
+		<rom name="244-p1.bin" size="2097152" crc="f8fdb7a5"/>
+		<rom name="244-s1.bin" size="131072" crc="9bddb697"/>
+		<rom name="244-v1.bin" size="4194304" crc="79def46d"/>
+		<rom name="244-v2.bin" size="2097152" crc="b231902f"/>
+	</game>
+	<game name="neodrift">
+		<description>neodrift</description>
+		<rom name="213-c1.bin" size="4194304" crc="3edc8bd3"/>
+		<rom name="213-c2.bin" size="4194304" crc="46ae5f16"/>
+		<rom name="213-m1.bin" size="131072" crc="200045f1"/>
+		<rom name="213-p1.bin" size="2097152" crc="e397d798"/>
+		<rom name="213-s1.bin" size="131072" crc="b76b61bc"/>
+		<rom name="213-v1.bin" size="2097152" crc="a421c076"/>
+		<rom name="213-v2.bin" size="2097152" crc="233c7dd9"/>
+	</game>
+	<game name="neogeo">
+		<description>neogeo</description>
+		<rom name="000-lo.lo" size="65536" crc="e09e253c"/>
+		<rom name="asia-s3.rom" size="131072" crc="91b64be3"/>
+		<rom name="neodebug.rom" size="131072" crc="698ebb7d"/>
+		<rom name="sfix.sfx" size="131072" crc="354029fc"/>
+		<rom name="sm1.sm1" size="131072" crc="97cf998b"/>
+		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp-j2.rom" size="131072" crc="acede59c"/>
+		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="uni-bios.22" size="131072" crc="2d50996a"/>
+		<rom name="usa_2slt.bin" size="131072" crc="e72943de"/>
+		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+	</game>
+	<game name="neomrdo">
+		<description>neomrdo</description>
+		<rom name="207-c1.bin" size="2097152" crc="c7541b9d"/>
+		<rom name="207-c2.bin" size="2097152" crc="f57166d2"/>
+		<rom name="207-m1.bin" size="131072" crc="81eade02"/>
+		<rom name="207-p1.bin" size="524288" crc="39efdb82"/>
+		<rom name="207-s1.bin" size="65536" crc="6c4b09c4"/>
+		<rom name="207-v1.bin" size="2097152" crc="4143c052"/>
+	</game>
+	<game name="ninjamas">
+		<description>ninjamas</description>
+		<rom name="217-c1.bin" size="4194304" crc="5fe97bc4"/>
+		<rom name="217-c2.bin" size="4194304" crc="886e0d66"/>
+		<rom name="217-c3.bin" size="4194304" crc="59e8525f"/>
+		<rom name="217-c4.bin" size="4194304" crc="8521add2"/>
+		<rom name="217-c5.bin" size="4194304" crc="fb1896e5"/>
+		<rom name="217-c6.bin" size="4194304" crc="1c98c54b"/>
+		<rom name="217-c7.bin" size="4194304" crc="8b0ede2e"/>
+		<rom name="217-c8.bin" size="4194304" crc="a085bb61"/>
+		<rom name="217-m1.bin" size="131072" crc="d00fb2af"/>
+		<rom name="217-p1.bin" size="1048576" crc="3e97ed69"/>
+		<rom name="217-p2.bin" size="2097152" crc="191fca88"/>
+		<rom name="217-s1.bin" size="131072" crc="8ff782f0"/>
+		<rom name="217-v1.bin" size="4194304" crc="1c34e013"/>
+		<rom name="217-v2.bin" size="2097152" crc="22f1c681"/>
+	</game>
+	<game name="nitd">
+		<description>nitd</description>
+		<rom name="260-c1.bin" size="8388608" crc="147b0c7f"/>
+		<rom name="260-c2.bin" size="8388608" crc="d2b04b0d"/>
+		<rom name="260-m1.bin" size="524288" crc="6407c5e5"/>
+		<rom name="260-p1.bin" size="524288" crc="61361082"/>
+		<rom name="260-v1.bin" size="4194304" crc="24b0480c"/>
+	</game>
+	<game name="overtop">
+		<description>overtop</description>
+		<rom name="212-c1.bin" size="4194304" crc="50f43087"/>
+		<rom name="212-c2.bin" size="4194304" crc="a5b39807"/>
+		<rom name="212-c3.bin" size="4194304" crc="9252ea02"/>
+		<rom name="212-c4.bin" size="4194304" crc="5f41a699"/>
+		<rom name="212-c5.bin" size="2097152" crc="fc858bef"/>
+		<rom name="212-c6.bin" size="2097152" crc="0589c15e"/>
+		<rom name="212-m1.bin" size="131072" crc="fcab6191"/>
+		<rom name="212-p1.bin" size="2097152" crc="16c063a9"/>
+		<rom name="212-s1.bin" size="131072" crc="481d3ddc"/>
+		<rom name="212-v1.bin" size="4194304" crc="013d4ef9"/>
+	</game>
+	<game name="panicbom">
+		<description>panicbom</description>
+		<rom name="073-c1.bin" size="1048576" crc="8582e1b5"/>
+		<rom name="073-c2.bin" size="1048576" crc="e15a093b"/>
+		<rom name="073-m1.bin" size="131072" crc="3cdf5d88"/>
+		<rom name="073-p1.bin" size="262144" crc="0b21130d"/>
+		<rom name="073-s1.bin" size="131072" crc="b876de7e"/>
+		<rom name="073-v1.bin" size="2097152" crc="7fc86d2f"/>
+		<rom name="073-v2.bin" size="1048576" crc="082adfc7"/>
+	</game>
+	<game name="pbobbl2n">
+		<description>pbobbl2n</description>
+		<rom name="248-c1.bin" size="4194304" crc="d9115327"/>
+		<rom name="248-c2.bin" size="4194304" crc="77f9fdac"/>
+		<rom name="248-c3.bin" size="1048576" crc="8890bf7c"/>
+		<rom name="248-c4.bin" size="1048576" crc="8efead3f"/>
+		<rom name="248-m1.bin" size="131072" crc="883097a9"/>
+		<rom name="248-p1.bin" size="1048576" crc="9d6c0754"/>
+		<rom name="248-s1.bin" size="131072" crc="0a3fee41"/>
+		<rom name="248-v1.bin" size="4194304" crc="57fde1fa"/>
+		<rom name="248-v2.bin" size="4194304" crc="4b966ef3"/>
+	</game>
+	<game name="pbobblen">
+		<description>pbobblen</description>
+		<rom name="068-c1.bin" size="1048576" crc="7f250f76"/>
+		<rom name="068-c2.bin" size="1048576" crc="20912873"/>
+		<rom name="068-c3.bin" size="1048576" crc="4b641ba1"/>
+		<rom name="068-c4.bin" size="1048576" crc="35072596"/>
+		<rom name="068-v1.bin" size="1048576" crc="2ced86df"/>
+		<rom name="068-v2.bin" size="1048576" crc="970851ab"/>
+		<rom name="d96-01.v3" size="1048576" crc="0840cbc4"/>
+		<rom name="d96-02.c5" size="524288" crc="e89ad494"/>
+		<rom name="d96-03.c6" size="524288" crc="4b42d7eb"/>
+		<rom name="d96-04.s1" size="131072" crc="9caae538"/>
+		<rom name="d96-05.v4" size="524288" crc="0a548948"/>
+		<rom name="d96-06.m1" size="131072" crc="f424368a"/>
+		<rom name="d96-07.ep1" size="524288" crc="6102ca14"/>
+	</game>
+	<game name="pgoal">
+		<description>pgoal</description>
+		<rom name="219-c1.bin" size="2097152" crc="2dc69faf"/>
+		<rom name="219-c2.bin" size="2097152" crc="5db81811"/>
+		<rom name="219-c3.bin" size="2097152" crc="9dbfece5"/>
+		<rom name="219-c4.bin" size="2097152" crc="c9f4324c"/>
+		<rom name="219-c5.bin" size="2097152" crc="5fdad0a5"/>
+		<rom name="219-c6.bin" size="2097152" crc="f57b4a1c"/>
+		<rom name="219-m1.bin" size="131072" crc="958efdc8"/>
+		<rom name="219-p1.bin" size="2097152" crc="6af0e574"/>
+		<rom name="219-s1.bin" size="131072" crc="002f3c88"/>
+		<rom name="219-v1.bin" size="2097152" crc="2cc1bd05"/>
+		<rom name="219-v2.bin" size="2097152" crc="06ac1d3f"/>
+	</game>
+	<game name="popbounc">
+		<description>popbounc</description>
+		<rom name="237-c1.bin" size="2097152" crc="eda42d66"/>
+		<rom name="237-c2.bin" size="2097152" crc="5e633c65"/>
+		<rom name="237-m1.bin" size="131072" crc="d4c946dd"/>
+		<rom name="237-p1.bin" size="1048576" crc="be96e44f"/>
+		<rom name="237-s1.bin" size="131072" crc="b61cf595"/>
+		<rom name="237-v1.bin" size="2097152" crc="edcb1beb"/>
+	</game>
+	<game name="preisle2">
+		<description>preisle2</description>
+		<rom name="255-c1.bin" size="8388608" crc="ea06000b"/>
+		<rom name="255-c2.bin" size="8388608" crc="04e67d79"/>
+		<rom name="255-c3.bin" size="8388608" crc="60e31e08"/>
+		<rom name="255-c4.bin" size="8388608" crc="40371d69"/>
+		<rom name="255-c5.bin" size="8388608" crc="0b2e6adf"/>
+		<rom name="255-c6.bin" size="8388608" crc="b001bdd3"/>
+		<rom name="255-m1.bin" size="131072" crc="8efd4014"/>
+		<rom name="255-p1.bin" size="1048576" crc="dfa3c0f3"/>
+		<rom name="255-p2.bin" size="4194304" crc="42050b80"/>
+		<rom name="255-v1.bin" size="4194304" crc="5a14543d"/>
+		<rom name="255-v2.bin" size="2097152" crc="6610d91a"/>
+	</game>
+	<game name="pspikes2">
+		<description>pspikes2</description>
+		<rom name="068-c1.bin" size="1048576" crc="7f250f76"/>
+		<rom name="068-c2.bin" size="1048576" crc="20912873"/>
+		<rom name="068-c3.bin" size="1048576" crc="4b641ba1"/>
+		<rom name="068-c4.bin" size="1048576" crc="35072596"/>
+		<rom name="068-c5.bin" size="1048576" crc="151dd624"/>
+		<rom name="068-c6.bin" size="1048576" crc="a6722604"/>
+		<rom name="068-mg1.bin" size="131072" crc="b1c7911e"/>
+		<rom name="068-pg1.bin" size="1048576" crc="105a408f"/>
+		<rom name="068-sg1.bin" size="131072" crc="18082299"/>
+		<rom name="068-v1.bin" size="1048576" crc="2ced86df"/>
+		<rom name="068-v2.bin" size="1048576" crc="970851ab"/>
+		<rom name="068-v3.bin" size="1048576" crc="81ff05aa"/>
+	</game>
+	<game name="pulstar">
+		<description>pulstar</description>
+		<rom name="089-c1.bin" size="4194304" crc="f4e97332"/>
+		<rom name="089-c2.bin" size="4194304" crc="836d14da"/>
+		<rom name="089-c3.bin" size="4194304" crc="913611c4"/>
+		<rom name="089-c4.bin" size="4194304" crc="44cef0e3"/>
+		<rom name="089-c5.bin" size="4194304" crc="89baa1d7"/>
+		<rom name="089-c6.bin" size="4194304" crc="b2594d56"/>
+		<rom name="089-c7.bin" size="2097152" crc="6a5618ca"/>
+		<rom name="089-c8.bin" size="2097152" crc="a223572d"/>
+		<rom name="089-m1.bin" size="131072" crc="ff3df7c7"/>
+		<rom name="089-p1.bin" size="1048576" crc="5e5847a2"/>
+		<rom name="089-p2.bin" size="2097152" crc="028b774c"/>
+		<rom name="089-s1.bin" size="131072" crc="c79fc2c8"/>
+		<rom name="089-v1.bin" size="4194304" crc="b458ded2"/>
+		<rom name="089-v2.bin" size="4194304" crc="9d2db551"/>
+	</game>
+	<game name="puzzledp">
+		<description>puzzledp</description>
+		<rom name="202-c1.bin" size="1048576" crc="cc0095ef"/>
+		<rom name="202-c2.bin" size="1048576" crc="42371307"/>
+		<rom name="202-m1.bin" size="131072" crc="9c0291ea"/>
+		<rom name="202-p1.bin" size="524288" crc="2b61415b"/>
+		<rom name="202-s1.bin" size="65536" crc="4a421612"/>
+		<rom name="202-v1.bin" size="524288" crc="debeb8fb"/>
+	</game>
+	<game name="ragnagrd">
+		<description>ragnagrd</description>
+		<rom name="218-c1.bin" size="4194304" crc="c31500a4"/>
+		<rom name="218-c2.bin" size="4194304" crc="98aba1f9"/>
+		<rom name="218-c3.bin" size="4194304" crc="833c163a"/>
+		<rom name="218-c4.bin" size="4194304" crc="c1a30f69"/>
+		<rom name="218-c5.bin" size="4194304" crc="6b6de0ff"/>
+		<rom name="218-c6.bin" size="4194304" crc="94beefcf"/>
+		<rom name="218-c7.bin" size="4194304" crc="de6f9b28"/>
+		<rom name="218-c8.bin" size="4194304" crc="d9b311f6"/>
+		<rom name="218-m1.bin" size="131072" crc="17028bcf"/>
+		<rom name="218-p1.bin" size="2097152" crc="ca372303"/>
+		<rom name="218-s1.bin" size="131072" crc="7d402f9a"/>
+		<rom name="218-v1.bin" size="4194304" crc="61eee7f4"/>
+		<rom name="218-v2.bin" size="4194304" crc="6104e20b"/>
+	</game>
+	<game name="rbff1">
+		<description>rbff1</description>
+		<rom name="069-c1.bin" size="4194304" crc="e302f93c"/>
+		<rom name="069-c2.bin" size="4194304" crc="1053a455"/>
+		<rom name="069-c3.bin" size="4194304" crc="1c0fde2f"/>
+		<rom name="069-c4.bin" size="4194304" crc="a25fc3d0"/>
+		<rom name="069-v1.bin" size="4194304" crc="2bdbd4db"/>
+		<rom name="069-v2.bin" size="4194304" crc="a698a487"/>
+		<rom name="095-c5.bin" size="4194304" crc="8b9b65df"/>
+		<rom name="095-c6.bin" size="4194304" crc="3e164718"/>
+		<rom name="095-c7.bin" size="2097152" crc="ca605e12"/>
+		<rom name="095-c8.bin" size="2097152" crc="4e6beb6c"/>
+		<rom name="095-m1.bin" size="131072" crc="653492a7"/>
+		<rom name="095-p1.bin" size="1048576" crc="63b4d8ae"/>
+		<rom name="095-p2.bin" size="2097152" crc="cc15826e"/>
+		<rom name="095-s1.bin" size="131072" crc="b6bf5e08"/>
+		<rom name="095-v3.bin" size="4194304" crc="189d1c6c"/>
+	</game>
+	<game name="rbff2">
+		<description>rbff2</description>
+		<rom name="240-c1.bin" size="8388608" crc="effac504"/>
+		<rom name="240-c2.bin" size="8388608" crc="ed182d44"/>
+		<rom name="240-c3.bin" size="8388608" crc="22e0330a"/>
+		<rom name="240-c4.bin" size="8388608" crc="c19a07eb"/>
+		<rom name="240-c5.bin" size="8388608" crc="244dff5a"/>
+		<rom name="240-c6.bin" size="8388608" crc="4609e507"/>
+		<rom name="240-m1.bin" size="262144" crc="ed482791"/>
+		<rom name="240-p1.bin" size="1048576" crc="80e41205"/>
+		<rom name="240-p2.bin" size="4194304" crc="960aa88d"/>
+		<rom name="240-s1.bin" size="131072" crc="da3b40de"/>
+		<rom name="240-v1.bin" size="4194304" crc="f796265a"/>
+		<rom name="240-v2.bin" size="4194304" crc="2cb3f3bb"/>
+		<rom name="240-v3.bin" size="4194304" crc="8fe1367a"/>
+		<rom name="240-v4.bin" size="4194304" crc="33a356ee"/>
+	</game>
+	<game name="rbffspec">
+		<description>rbffspec</description>
+		<rom name="223-c1.bin" size="4194304" crc="ebab05e2"/>
+		<rom name="223-c2.bin" size="4194304" crc="641868c3"/>
+		<rom name="223-c3.bin" size="4194304" crc="ca00191f"/>
+		<rom name="223-c4.bin" size="4194304" crc="1f23d860"/>
+		<rom name="223-c5.bin" size="4194304" crc="321e362c"/>
+		<rom name="223-c6.bin" size="4194304" crc="d8fcef90"/>
+		<rom name="223-c7.bin" size="4194304" crc="bc80dd2d"/>
+		<rom name="223-c8.bin" size="4194304" crc="5ad62102"/>
+		<rom name="223-m1.bin" size="131072" crc="3fee46bf"/>
+		<rom name="223-p1.bin" size="1048576" crc="f84a2d1d"/>
+		<rom name="223-p2.bin" size="4194304" crc="addd8f08"/>
+		<rom name="223-s1.bin" size="131072" crc="7ecd6e8c"/>
+		<rom name="223-v1.bin" size="4194304" crc="76673869"/>
+		<rom name="223-v2.bin" size="4194304" crc="7a275acd"/>
+		<rom name="223-v3.bin" size="4194304" crc="5a797fd2"/>
+	</game>
+	<game name="ridhero">
+		<description>ridhero</description>
+		<rom name="006-c1.bin" size="524288" crc="4a5c7f78"/>
+		<rom name="006-c2.bin" size="524288" crc="e0b70ece"/>
+		<rom name="006-c3.bin" size="524288" crc="8acff765"/>
+		<rom name="006-c4.bin" size="524288" crc="205e3208"/>
+		<rom name="006-m1.bin" size="262144" crc="92e7b4fe"/>
+		<rom name="006-p1.bin" size="524288" crc="d4aaf597"/>
+		<rom name="006-s1.bin" size="131072" crc="eb5189f0"/>
+		<rom name="006-v11.bin" size="524288" crc="cdf74a42"/>
+		<rom name="006-v12.bin" size="524288" crc="e2fd2371"/>
+		<rom name="006-v21.bin" size="524288" crc="94092bce"/>
+		<rom name="006-v22.bin" size="524288" crc="4e2cd7c3"/>
+		<rom name="006-v23.bin" size="524288" crc="069c71ed"/>
+		<rom name="006-v24.bin" size="524288" crc="89fbb825"/>
+	</game>
+	<game name="roboarmy">
+		<description>roboarmy</description>
+		<rom name="032-c1.bin" size="1048576" crc="97984c6c"/>
+		<rom name="032-c2.bin" size="1048576" crc="65773122"/>
+		<rom name="032-c3.bin" size="524288" crc="40adfccd"/>
+		<rom name="032-c4.bin" size="524288" crc="462571de"/>
+		<rom name="032-m1.bin" size="131072" crc="98edc671"/>
+		<rom name="032-p1.bin" size="524288" crc="cd11cbd4"/>
+		<rom name="032-s1.bin" size="131072" crc="ac0daa1b"/>
+		<rom name="032-v1.bin" size="1048576" crc="63791533"/>
+		<rom name="032-v2.bin" size="1048576" crc="eb95de70"/>
+	</game>
+	<game name="rotd">
+		<description>rotd</description>
+		<rom name="264-c1.bin" size="8388608" crc="4f148fee"/>
+		<rom name="264-c2.bin" size="8388608" crc="7cf5ff72"/>
+		<rom name="264-c3.bin" size="8388608" crc="64d84c98"/>
+		<rom name="264-c4.bin" size="8388608" crc="2f394a95"/>
+		<rom name="264-c5.bin" size="8388608" crc="6b99b978"/>
+		<rom name="264-c6.bin" size="8388608" crc="847d5c7d"/>
+		<rom name="264-c7.bin" size="8388608" crc="231d681e"/>
+		<rom name="264-c8.bin" size="8388608" crc="c5edb5c4"/>
+		<rom name="264-m1.bin" size="131072" crc="4dbd7b43"/>
+		<rom name="264-m1_decrypted.bin" size="131072" crc="c5d36af9"/>
+		<rom name="264-p1.bin" size="8388608" crc="b8cc969d"/>
+		<rom name="264-v1.bin" size="8388608" crc="fa005812"/>
+		<rom name="264-v2.bin" size="8388608" crc="c3dc8bf0"/>
+	</game>
+	<game name="samsho">
+		<description>samsho</description>
+		<rom name="045-c1.bin" size="2097152" crc="2e5873a4"/>
+		<rom name="045-c2.bin" size="2097152" crc="04febb10"/>
+		<rom name="045-c3.bin" size="2097152" crc="f3dabd1e"/>
+		<rom name="045-c4.bin" size="2097152" crc="935c62f0"/>
+		<rom name="045-c51.bin" size="1048576" crc="81932894"/>
+		<rom name="045-c61.bin" size="1048576" crc="be30612e"/>
+		<rom name="045-m1.bin" size="131072" crc="95170640"/>
+		<rom name="045-p1.bin" size="1048576" crc="dfe51bf0"/>
+		<rom name="045-pg2.bin" size="1048576" crc="46745b94"/>
+		<rom name="045-s1.bin" size="131072" crc="9142a4d3"/>
+		<rom name="045-v1.bin" size="2097152" crc="37f78a9b"/>
+		<rom name="045-v2.bin" size="2097152" crc="568b20cf"/>
+	</game>
+	<game name="samsho2">
+		<description>samsho2</description>
+		<rom name="063-c1.bin" size="2097152" crc="86cd307c"/>
+		<rom name="063-c2.bin" size="2097152" crc="cdfcc4ca"/>
+		<rom name="063-c3.bin" size="2097152" crc="7a63ccc7"/>
+		<rom name="063-c4.bin" size="2097152" crc="751025ce"/>
+		<rom name="063-c5.bin" size="2097152" crc="20d3a475"/>
+		<rom name="063-c6.bin" size="2097152" crc="ae4c0a88"/>
+		<rom name="063-c7.bin" size="2097152" crc="2df3cbcf"/>
+		<rom name="063-c8.bin" size="2097152" crc="1ffc6dfa"/>
+		<rom name="063-m1.bin" size="131072" crc="56675098"/>
+		<rom name="063-p1.bin" size="2097152" crc="22368892"/>
+		<rom name="063-s1.bin" size="131072" crc="64a5cd66"/>
+		<rom name="063-v1.bin" size="2097152" crc="37703f91"/>
+		<rom name="063-v2.bin" size="2097152" crc="0142bde8"/>
+		<rom name="063-v3.bin" size="2097152" crc="d07fa5ca"/>
+		<rom name="063-v4.bin" size="1048576" crc="24aab4bb"/>
+	</game>
+	<game name="samsho3">
+		<description>samsho3</description>
+		<rom name="087-c1.bin" size="4194304" crc="07a233bc"/>
+		<rom name="087-c2.bin" size="4194304" crc="7a413592"/>
+		<rom name="087-c3.bin" size="4194304" crc="8b793796"/>
+		<rom name="087-c4.bin" size="4194304" crc="728fbf11"/>
+		<rom name="087-c5.bin" size="4194304" crc="172ab180"/>
+		<rom name="087-c6.bin" size="4194304" crc="002ff8f3"/>
+		<rom name="087-c7.bin" size="1048576" crc="ae450e3d"/>
+		<rom name="087-c8.bin" size="1048576" crc="a9e82717"/>
+		<rom name="087-ep1.bin" size="524288" crc="23e09bb8"/>
+		<rom name="087-ep2.bin" size="524288" crc="256f5302"/>
+		<rom name="087-ep3.bin" size="524288" crc="bf2db5dd"/>
+		<rom name="087-ep4.bin" size="524288" crc="53e60c58"/>
+		<rom name="087-m1.bin" size="131072" crc="8e6440eb"/>
+		<rom name="087-p5.bin" size="1048576" crc="e86ca4af"/>
+		<rom name="087-s1.bin" size="131072" crc="74ec7d9f"/>
+		<rom name="087-v1.bin" size="4194304" crc="84bdd9a0"/>
+		<rom name="087-v2.bin" size="2097152" crc="ac0f261a"/>
+	</game>
+	<game name="samsho4">
+		<description>samsho4</description>
+		<rom name="222-c1.bin" size="4194304" crc="68f2ed95"/>
+		<rom name="222-c2.bin" size="4194304" crc="a6e9aff0"/>
+		<rom name="222-c3.bin" size="4194304" crc="c91b40f4"/>
+		<rom name="222-c4.bin" size="4194304" crc="359510a4"/>
+		<rom name="222-c5.bin" size="4194304" crc="9cfbb22d"/>
+		<rom name="222-c6.bin" size="4194304" crc="685efc32"/>
+		<rom name="222-c7.bin" size="4194304" crc="d0f86f0d"/>
+		<rom name="222-c8.bin" size="4194304" crc="adfc50e3"/>
+		<rom name="222-m1.bin" size="131072" crc="7615bc1b"/>
+		<rom name="222-p1.bin" size="1048576" crc="1a5cb56d"/>
+		<rom name="222-p2.bin" size="4194304" crc="b023cd8b"/>
+		<rom name="222-s1.bin" size="131072" crc="8d3d3bf9"/>
+		<rom name="222-v1.bin" size="4194304" crc="7d6ba95f"/>
+		<rom name="222-v2.bin" size="4194304" crc="6c33bb5d"/>
+		<rom name="222-v3.bin" size="2097152" crc="831ea8c0"/>
+	</game>
+	<game name="savagere">
+		<description>savagere</description>
+		<rom name="059-c1.bin" size="2097152" crc="763ba611"/>
+		<rom name="059-c2.bin" size="2097152" crc="e05e8ca6"/>
+		<rom name="059-c3.bin" size="2097152" crc="3e4eba4b"/>
+		<rom name="059-c4.bin" size="2097152" crc="3c2a3808"/>
+		<rom name="059-c5.bin" size="2097152" crc="59013f9e"/>
+		<rom name="059-c6.bin" size="2097152" crc="1c8d5def"/>
+		<rom name="059-c7.bin" size="2097152" crc="c88f7035"/>
+		<rom name="059-c8.bin" size="2097152" crc="484ce3ba"/>
+		<rom name="059-m1.bin" size="131072" crc="29992eba"/>
+		<rom name="059-p1.bin" size="2097152" crc="01d4e9c0"/>
+		<rom name="059-s1.bin" size="131072" crc="e08978ca"/>
+		<rom name="059-v1.bin" size="2097152" crc="530c50fd"/>
+		<rom name="059-v2.bin" size="2097152" crc="eb6f1cdb"/>
+		<rom name="059-v3.bin" size="2097152" crc="7038c2f9"/>
+	</game>
+	<game name="sdodgeb">
+		<description>sdodgeb</description>
+		<rom name="208-c1.bin" size="4194304" crc="93d8619b"/>
+		<rom name="208-c2.bin" size="4194304" crc="1c737bb6"/>
+		<rom name="208-c3.bin" size="2097152" crc="14cb1703"/>
+		<rom name="208-c4.bin" size="2097152" crc="c7165f19"/>
+		<rom name="208-m1.bin" size="131072" crc="0a5f3325"/>
+		<rom name="208-p1.bin" size="2097152" crc="127f3d32"/>
+		<rom name="208-s1.bin" size="131072" crc="64abd6b3"/>
+		<rom name="208-v1.bin" size="2097152" crc="8b53e945"/>
+		<rom name="208-v2.bin" size="2097152" crc="af37ebf8"/>
+	</game>
+	<game name="sengoku">
+		<description>sengoku</description>
+		<rom name="017-c1.bin" size="1048576" crc="b4eb82a1"/>
+		<rom name="017-c2.bin" size="1048576" crc="d55c550d"/>
+		<rom name="017-c3.bin" size="1048576" crc="ed51ef65"/>
+		<rom name="017-c4.bin" size="1048576" crc="f4f3c9cb"/>
+		<rom name="017-m1.bin" size="131072" crc="9b4f34c6"/>
+		<rom name="017-p1.bin" size="524288" crc="f8a63983"/>
+		<rom name="017-p2.bin" size="131072" crc="3024bbb3"/>
+		<rom name="017-s1.bin" size="131072" crc="b246204d"/>
+		<rom name="017-v1.bin" size="1048576" crc="23663295"/>
+		<rom name="017-v2.bin" size="1048576" crc="f61e6765"/>
+	</game>
+	<game name="sengoku2">
+		<description>sengoku2</description>
+		<rom name="040-c1.bin" size="2097152" crc="faa8ea99"/>
+		<rom name="040-c2.bin" size="2097152" crc="87d0ec65"/>
+		<rom name="040-c3.bin" size="524288" crc="24b5ba80"/>
+		<rom name="040-c4.bin" size="524288" crc="1c9e9930"/>
+		<rom name="040-m1.bin" size="131072" crc="d4de4bca"/>
+		<rom name="040-p1.bin" size="1048576" crc="6dde02c2"/>
+		<rom name="040-s1.bin" size="131072" crc="cd9802a3"/>
+		<rom name="040-v1.bin" size="2097152" crc="71cb4b5d"/>
+		<rom name="040-v2.bin" size="1048576" crc="c5cece01"/>
+	</game>
+	<game name="shocktr2">
+		<description>shocktr2</description>
+		<rom name="246-c1.bin" size="8388608" crc="47ac9ec5"/>
+		<rom name="246-c2.bin" size="8388608" crc="7bcab64f"/>
+		<rom name="246-c3.bin" size="8388608" crc="db2f73e8"/>
+		<rom name="246-c4.bin" size="8388608" crc="5503854e"/>
+		<rom name="246-c5.bin" size="8388608" crc="055b3701"/>
+		<rom name="246-c6.bin" size="8388608" crc="7e2caae1"/>
+		<rom name="246-m1.bin" size="131072" crc="d0604ad1"/>
+		<rom name="246-p1.bin" size="1048576" crc="6d4b7781"/>
+		<rom name="246-p2.bin" size="4194304" crc="72ea04c3"/>
+		<rom name="246-s1.bin" size="131072" crc="2a360637"/>
+		<rom name="246-v1.bin" size="4194304" crc="16986fc6"/>
+		<rom name="246-v2.bin" size="4194304" crc="ada41e83"/>
+		<rom name="246-v3.bin" size="2097152" crc="a05ba5db"/>
+	</game>
+	<game name="shocktro">
+		<description>shocktro</description>
+		<rom name="238-c1.bin" size="4194304" crc="90c6a181"/>
+		<rom name="238-c2.bin" size="4194304" crc="888720f0"/>
+		<rom name="238-c3.bin" size="4194304" crc="2c393aa3"/>
+		<rom name="238-c4.bin" size="4194304" crc="b9e909eb"/>
+		<rom name="238-c5.bin" size="4194304" crc="c22c68eb"/>
+		<rom name="238-c6.bin" size="4194304" crc="119323cd"/>
+		<rom name="238-c7.bin" size="4194304" crc="a72ce7ed"/>
+		<rom name="238-c8.bin" size="4194304" crc="1c7c2efb"/>
+		<rom name="238-m1.bin" size="131072" crc="075b9518"/>
+		<rom name="238-p1.bin" size="1048576" crc="5677456f"/>
+		<rom name="238-p2.bin" size="4194304" crc="5b4a09c5"/>
+		<rom name="238-s1.bin" size="131072" crc="1f95cedb"/>
+		<rom name="238-v1.bin" size="4194304" crc="260c0bef"/>
+		<rom name="238-v2.bin" size="2097152" crc="4ad7d59e"/>
+	</game>
+	<game name="socbrawl">
+		<description>socbrawl</description>
+		<rom name="031-c1.bin" size="1048576" crc="bd0a4eb8"/>
+		<rom name="031-c2.bin" size="1048576" crc="efde5382"/>
+		<rom name="031-c3.bin" size="524288" crc="580f7f33"/>
+		<rom name="031-c4.bin" size="524288" crc="ed297de8"/>
+		<rom name="031-m1.bin" size="65536" crc="2f38d5d3"/>
+		<rom name="031-p1.bin" size="524288" crc="a2801c24"/>
+		<rom name="031-s1.bin" size="65536" crc="2db38c3b"/>
+		<rom name="031-v1.bin" size="1048576" crc="cc78497e"/>
+		<rom name="031-v2.bin" size="1048576" crc="dda043c6"/>
+	</game>
+	<game name="sonicwi2">
+		<description>sonicwi2</description>
+		<rom name="075-c1.bin" size="2097152" crc="3278e73e"/>
+		<rom name="075-c2.bin" size="2097152" crc="fe6355d6"/>
+		<rom name="075-c3.bin" size="2097152" crc="c1b438f1"/>
+		<rom name="075-c4.bin" size="2097152" crc="1f777206"/>
+		<rom name="075-m1.bin" size="131072" crc="bb828df1"/>
+		<rom name="075-p1.bin" size="2097152" crc="92871738"/>
+		<rom name="075-s1.bin" size="131072" crc="c9eec367"/>
+		<rom name="075-v1.bin" size="2097152" crc="7577e949"/>
+		<rom name="075-v2.bin" size="524288" crc="6d0a728e"/>
+	</game>
+	<game name="sonicwi3">
+		<description>sonicwi3</description>
+		<rom name="097-c1.bin" size="4194304" crc="33d0d589"/>
+		<rom name="097-c2.bin" size="4194304" crc="186f8b43"/>
+		<rom name="097-c3.bin" size="2097152" crc="c339fff5"/>
+		<rom name="097-c4.bin" size="2097152" crc="84a40c6e"/>
+		<rom name="097-m1.bin" size="131072" crc="b20e4291"/>
+		<rom name="097-p1.bin" size="2097152" crc="0547121d"/>
+		<rom name="097-s1.bin" size="131072" crc="8dd66743"/>
+		<rom name="097-v1.bin" size="4194304" crc="6f885152"/>
+		<rom name="097-v2.bin" size="1048576" crc="32187ccd"/>
+	</game>
+	<game name="ssideki">
+		<description>ssideki</description>
+		<rom name="052-c1.bin" size="2097152" crc="53e1c002"/>
+		<rom name="052-c2.bin" size="2097152" crc="776a2d1f"/>
+		<rom name="052-m1.bin" size="131072" crc="49f17d2d"/>
+		<rom name="052-p1.bin" size="524288" crc="9cd97256"/>
+		<rom name="052-s1.bin" size="131072" crc="97689804"/>
+		<rom name="052-v1.bin" size="2097152" crc="22c097a5"/>
+	</game>
+	<game name="ssideki2">
+		<description>ssideki2</description>
+		<rom name="061-c1-16.bin" size="2097152" crc="a626474f"/>
+		<rom name="061-c2-16.bin" size="2097152" crc="c3be42ae"/>
+		<rom name="061-c3-16.bin" size="2097152" crc="2a7b98b9"/>
+		<rom name="061-c4-16.bin" size="2097152" crc="c0be9a1f"/>
+		<rom name="061-m1.bin" size="131072" crc="156f6951"/>
+		<rom name="061-p1.bin" size="1048576" crc="5969e0dc"/>
+		<rom name="061-s1.bin" size="131072" crc="226d1b68"/>
+		<rom name="061-v1.bin" size="2097152" crc="f081c8d3"/>
+		<rom name="061-v2.bin" size="2097152" crc="7cd63302"/>
+	</game>
+	<game name="ssideki3">
+		<description>ssideki3</description>
+		<rom name="081-c1.bin" size="2097152" crc="1fb68ebe"/>
+		<rom name="081-c2.bin" size="2097152" crc="b28d928f"/>
+		<rom name="081-c3.bin" size="2097152" crc="3b2572e8"/>
+		<rom name="081-c4.bin" size="2097152" crc="47d26a7c"/>
+		<rom name="081-c5.bin" size="2097152" crc="17d42f0d"/>
+		<rom name="081-c6.bin" size="2097152" crc="6b53fb75"/>
+		<rom name="081-m1.bin" size="131072" crc="82fcd863"/>
+		<rom name="081-p1.bin" size="2097152" crc="6bc27a3d"/>
+		<rom name="081-s1.bin" size="131072" crc="7626da34"/>
+		<rom name="081-v1.bin" size="2097152" crc="201fa1e1"/>
+		<rom name="081-v2.bin" size="2097152" crc="acf29d96"/>
+		<rom name="081-v3.bin" size="2097152" crc="e524e415"/>
+	</game>
+	<game name="ssideki4">
+		<description>ssideki4</description>
+		<rom name="215-c1.bin" size="4194304" crc="8ff444f5"/>
+		<rom name="215-c2.bin" size="4194304" crc="5b155037"/>
+		<rom name="215-c3.bin" size="4194304" crc="456a073a"/>
+		<rom name="215-c4.bin" size="4194304" crc="43c182e1"/>
+		<rom name="215-c5.bin" size="2097152" crc="0c6f97ec"/>
+		<rom name="215-c6.bin" size="2097152" crc="329c5e1b"/>
+		<rom name="215-m1.bin" size="131072" crc="a932081d"/>
+		<rom name="215-p1.bin" size="2097152" crc="519b4ba3"/>
+		<rom name="215-s1.bin" size="131072" crc="f0fe5c36"/>
+		<rom name="215-v1.bin" size="4194304" crc="877d1409"/>
+		<rom name="215-v2.bin" size="2097152" crc="1bfa218b"/>
+	</game>
+	<game name="stakwin">
+		<description>stakwin</description>
+		<rom name="088-c1.bin" size="2097152" crc="6e733421"/>
+		<rom name="088-c2.bin" size="2097152" crc="4d865347"/>
+		<rom name="088-c3.bin" size="2097152" crc="8fa5a9eb"/>
+		<rom name="088-c4.bin" size="2097152" crc="4604f0dc"/>
+		<rom name="088-m1.bin" size="131072" crc="2fe1f499"/>
+		<rom name="088-p1.bin" size="2097152" crc="bd5814f6"/>
+		<rom name="088-s1.bin" size="131072" crc="073cb208"/>
+		<rom name="088-v1.bin" size="2097152" crc="b7785023"/>
+	</game>
+	<game name="stakwin2">
+		<description>stakwin2</description>
+		<rom name="227-c1.bin" size="4194304" crc="7d6c2af4"/>
+		<rom name="227-c2.bin" size="4194304" crc="7e402d39"/>
+		<rom name="227-c3.bin" size="2097152" crc="93dfd660"/>
+		<rom name="227-c4.bin" size="2097152" crc="7efea43a"/>
+		<rom name="227-m1.bin" size="131072" crc="c8e5e0f9"/>
+		<rom name="227-p1.bin" size="2097152" crc="daf101d2"/>
+		<rom name="227-s1.bin" size="131072" crc="2a8c4462"/>
+		<rom name="227-v1.bin" size="4194304" crc="b8f24181"/>
+		<rom name="227-v2.bin" size="4194304" crc="ee39e260"/>
+	</game>
+	<game name="strhoop">
+		<description>strhoop</description>
+		<rom name="079-c1.bin" size="2097152" crc="0581c72a"/>
+		<rom name="079-c2.bin" size="2097152" crc="5b9b8fb6"/>
+		<rom name="079-c3.bin" size="2097152" crc="cd65bb62"/>
+		<rom name="079-c4.bin" size="2097152" crc="a4c90213"/>
+		<rom name="079-m1.bin" size="65536" crc="1a5f08db"/>
+		<rom name="079-p1.bin" size="1048576" crc="5e78328e"/>
+		<rom name="079-s1.bin" size="131072" crc="3ac06665"/>
+		<rom name="079-v1.bin" size="2097152" crc="718a2400"/>
+		<rom name="079-v2.bin" size="524288" crc="b19884f8"/>
+	</game>
+	<game name="superspy">
+		<description>superspy</description>
+		<rom name="011-c1.bin" size="1048576" crc="cae7be57"/>
+		<rom name="011-c2.bin" size="1048576" crc="9e29d986"/>
+		<rom name="011-c3.bin" size="1048576" crc="14832ff2"/>
+		<rom name="011-c4.bin" size="1048576" crc="b7f63162"/>
+		<rom name="011-m1.bin" size="131072" crc="d59d5d12"/>
+		<rom name="011-p1.bin" size="524288" crc="c7f944b5"/>
+		<rom name="011-p2.bin" size="131072" crc="811a4faf"/>
+		<rom name="011-s1.bin" size="131072" crc="ec5fdb96"/>
+		<rom name="011-v11.bin" size="1048576" crc="5c674d5c"/>
+		<rom name="011-v12.bin" size="1048576" crc="7df8898b"/>
+		<rom name="011-v21.bin" size="1048576" crc="1ebe94c7"/>
+	</game>
+	<game name="tophuntr">
+		<description>tophuntr</description>
+		<rom name="046-c1.bin" size="1048576" crc="fa720a4a"/>
+		<rom name="046-c2.bin" size="1048576" crc="c900c205"/>
+		<rom name="046-c3.bin" size="1048576" crc="880e3c25"/>
+		<rom name="046-c4.bin" size="1048576" crc="7a2248aa"/>
+		<rom name="046-c5.bin" size="1048576" crc="4b735e45"/>
+		<rom name="046-c6.bin" size="1048576" crc="273171df"/>
+		<rom name="046-c7.bin" size="1048576" crc="12829c4c"/>
+		<rom name="046-c8.bin" size="1048576" crc="c944e03d"/>
+		<rom name="046-m1.bin" size="131072" crc="3f84bb9f"/>
+		<rom name="046-p1.bin" size="1048576" crc="69fa9e29"/>
+		<rom name="046-p2.sp2" size="1048576" crc="f182cb3e"/>
+		<rom name="046-s1.bin" size="131072" crc="14b01d7b"/>
+		<rom name="046-v1.bin" size="1048576" crc="c1f9c2db"/>
+		<rom name="046-v2.bin" size="1048576" crc="56254a64"/>
+		<rom name="046-v3.bin" size="1048576" crc="58113fb1"/>
+		<rom name="046-v4.bin" size="1048576" crc="4f54c187"/>
+	</game>
+	<game name="tpgolf">
+		<description>tpgolf</description>
+		<rom name="003-c1.bin" size="524288" crc="0315fbaf"/>
+		<rom name="003-c2.bin" size="524288" crc="b4c15d59"/>
+		<rom name="003-c3.bin" size="524288" crc="b09f1612"/>
+		<rom name="003-c4.bin" size="524288" crc="150ea7a1"/>
+		<rom name="003-c5.bin" size="524288" crc="9a7146da"/>
+		<rom name="003-c6.bin" size="524288" crc="1e63411a"/>
+		<rom name="003-c7.bin" size="524288" crc="2886710c"/>
+		<rom name="003-c8.bin" size="524288" crc="422af22d"/>
+		<rom name="003-m1.bin" size="65536" crc="7851d0d9"/>
+		<rom name="003-p1.bin" size="524288" crc="f75549ba"/>
+		<rom name="003-p2.bin" size="524288" crc="b7809a8f"/>
+		<rom name="003-s1.bin" size="131072" crc="7b3eb9b1"/>
+		<rom name="003-v11.bin" size="524288" crc="ff97f1cb"/>
+		<rom name="003-v21.bin" size="524288" crc="d34960c6"/>
+		<rom name="003-v22.bin" size="524288" crc="9a5f58d4"/>
+		<rom name="003-v23.bin" size="524288" crc="30f53e54"/>
+		<rom name="003-v24.bin" size="524288" crc="5ba0f501"/>
+	</game>
+	<game name="trally">
+		<description>trally</description>
+		<rom name="038-c1.bin" size="1048576" crc="c58323d4"/>
+		<rom name="038-c2.bin" size="1048576" crc="bba9c29e"/>
+		<rom name="038-c3.bin" size="524288" crc="3bb7b9d6"/>
+		<rom name="038-c4.bin" size="524288" crc="a4513ecf"/>
+		<rom name="038-m1.bin" size="131072" crc="0908707e"/>
+		<rom name="038-p1.bin" size="524288" crc="1e52a576"/>
+		<rom name="038-p2.bin" size="524288" crc="a5193e2f"/>
+		<rom name="038-s1.bin" size="131072" crc="fff62ae3"/>
+		<rom name="038-v1.bin" size="1048576" crc="5ccd9fd5"/>
+		<rom name="038-v2.bin" size="524288" crc="ddd8d1e6"/>
+	</game>
+	<game name="turfmast">
+		<description>turfmast</description>
+		<rom name="200-c1.bin" size="4194304" crc="8e7bf41a"/>
+		<rom name="200-c2.bin" size="4194304" crc="5a65a8ce"/>
+		<rom name="200-m1.bin" size="131072" crc="9994ac00"/>
+		<rom name="200-p1.bin" size="2097152" crc="28c83048"/>
+		<rom name="200-s1.bin" size="131072" crc="9a5402b2"/>
+		<rom name="200-v1.bin" size="2097152" crc="00fd48d2"/>
+		<rom name="200-v2.bin" size="2097152" crc="082acb31"/>
+		<rom name="200-v3.bin" size="2097152" crc="7abca053"/>
+		<rom name="200-v4.bin" size="2097152" crc="6c7b4902"/>
+	</game>
+	<game name="twinspri">
+		<description>twinspri</description>
+		<rom name="224-c1.bin" size="4194304" crc="f7da64ab"/>
+		<rom name="224-c2.bin" size="4194304" crc="4c09bbfb"/>
+		<rom name="224-c3.bin" size="1048576" crc="c59e4129"/>
+		<rom name="224-c4.bin" size="1048576" crc="b5532e53"/>
+		<rom name="224-m1.bin" size="131072" crc="364d6f96"/>
+		<rom name="224-p1.bin" size="2097152" crc="7697e445"/>
+		<rom name="224-s1.bin" size="131072" crc="eeed5758"/>
+		<rom name="224-v1.bin" size="4194304" crc="ff57f088"/>
+		<rom name="224-v2.bin" size="2097152" crc="7ad26599"/>
+	</game>
+	<game name="tws96">
+		<description>tws96</description>
+		<rom name="086-c1.bin" size="4194304" crc="2611bc2a"/>
+		<rom name="086-c2.bin" size="4194304" crc="6b0d6827"/>
+		<rom name="086-c3.bin" size="1048576" crc="750ddc0c"/>
+		<rom name="086-c4.bin" size="1048576" crc="7a6e7d82"/>
+		<rom name="086-m1.bin" size="65536" crc="860ba8c7"/>
+		<rom name="086-p1.bin" size="1048576" crc="03e20ab6"/>
+		<rom name="086-s1.bin" size="131072" crc="6f5e2b3a"/>
+		<rom name="086-v1.bin" size="2097152" crc="97bf1986"/>
+		<rom name="086-v2.bin" size="2097152" crc="b7eb05df"/>
+	</game>
+	<game name="viewpoin">
+		<description>viewpoin</description>
+		<rom name="051-c1.bin" size="2097152" crc="d624c132"/>
+		<rom name="051-c2.bin" size="2097152" crc="40d69f1e"/>
+		<rom name="051-m1.bin" size="65536" crc="d57bd7af"/>
+		<rom name="051-p1.bin" size="1048576" crc="17aa899d"/>
+		<rom name="051-s1.bin" size="65536" crc="6d0f146a"/>
+		<rom name="051-v1.bin" size="2097152" crc="019978b6"/>
+		<rom name="051-v2.bin" size="2097152" crc="5758f38c"/>
+	</game>
+	<game name="wakuwak7">
+		<description>wakuwak7</description>
+		<rom name="225-c1.bin" size="4194304" crc="ee4fea54"/>
+		<rom name="225-c2.bin" size="4194304" crc="0c549e2d"/>
+		<rom name="225-c3.bin" size="4194304" crc="af0897c0"/>
+		<rom name="225-c4.bin" size="4194304" crc="4c66527a"/>
+		<rom name="225-c5.bin" size="4194304" crc="8ecea2b5"/>
+		<rom name="225-c6.bin" size="4194304" crc="0eb11a6d"/>
+		<rom name="225-m1.bin" size="131072" crc="0634bba6"/>
+		<rom name="225-p1.bin" size="1048576" crc="b14da766"/>
+		<rom name="225-p2.bin" size="2097152" crc="fe190665"/>
+		<rom name="225-s1.bin" size="131072" crc="71c4b4b5"/>
+		<rom name="225-v1.bin" size="4194304" crc="6195c6b4"/>
+		<rom name="225-v2.bin" size="4194304" crc="6159c5fe"/>
+	</game>
+	<game name="wh1">
+		<description>wh1</description>
+		<rom name="053-c1.bin" size="2097152" crc="85eb5bce"/>
+		<rom name="053-c2.bin" size="2097152" crc="ec93b048"/>
+		<rom name="053-c3.bin" size="1048576" crc="0dd64965"/>
+		<rom name="053-c4.bin" size="1048576" crc="9270d954"/>
+		<rom name="053-epr.p1" size="524288" crc="d42e1e9a"/>
+		<rom name="053-epr.p2" size="524288" crc="0e33e8a3"/>
+		<rom name="053-m1.bin" size="131072" crc="1bd9d04b"/>
+		<rom name="053-s1.bin" size="131072" crc="8c2c2d6b"/>
+		<rom name="053-v2.bin" size="2097152" crc="a68df485"/>
+		<rom name="053-v4.bin" size="1048576" crc="7bea8f66"/>
+	</game>
+	<game name="wh2">
+		<description>wh2</description>
+		<rom name="057-c1.bin" size="2097152" crc="21c6bb91"/>
+		<rom name="057-c2.bin" size="2097152" crc="a3999925"/>
+		<rom name="057-c3.bin" size="2097152" crc="b725a219"/>
+		<rom name="057-c4.bin" size="2097152" crc="8d96425e"/>
+		<rom name="057-c5.bin" size="2097152" crc="b20354af"/>
+		<rom name="057-c6.bin" size="2097152" crc="b13d1de3"/>
+		<rom name="057-m1.bin" size="131072" crc="8fa3bc77"/>
+		<rom name="057-p1.bin" size="2097152" crc="65a891d9"/>
+		<rom name="057-s1.bin" size="131072" crc="fcaeb3a4"/>
+		<rom name="057-v1.bin" size="2097152" crc="8877e301"/>
+		<rom name="057-v2.bin" size="2097152" crc="c1317ff4"/>
+	</game>
+	<game name="wh2j">
+		<description>wh2j</description>
+		<rom name="064-c13.bin" size="4194304" crc="771a6365"/>
+		<rom name="064-c24.bin" size="4194304" crc="e7863a05"/>
+		<rom name="064-c57.bin" size="4194304" crc="64594ed4"/>
+		<rom name="064-c68.bin" size="4194304" crc="6e385398"/>
+		<rom name="064-m1.bin" size="131072" crc="d2eec9d3"/>
+		<rom name="064-p1.bin" size="2097152" crc="385a2e86"/>
+		<rom name="064-s1.bin" size="131072" crc="2a03998a"/>
+		<rom name="064-v1.bin" size="2097152" crc="aa277109"/>
+		<rom name="064-v2.bin" size="2097152" crc="b6527edd"/>
+	</game>
+	<game name="whp">
+		<description>whp</description>
+		<rom name="064-c3.bin" size="2097152" crc="436d1b31"/>
+		<rom name="064-c4.bin" size="2097152" crc="f9c8dd26"/>
+		<rom name="064-c5.bin" size="2097152" crc="8e34a9f4"/>
+		<rom name="064-c6.bin" size="2097152" crc="a43e4766"/>
+		<rom name="064-c7.bin" size="2097152" crc="59d97215"/>
+		<rom name="064-c8.bin" size="2097152" crc="fc092367"/>
+		<rom name="064-v2.bin" size="2097152" crc="b6527edd"/>
+		<rom name="090-c1.bin" size="4194304" crc="cd30ed9b"/>
+		<rom name="090-c2.bin" size="4194304" crc="10eed5ee"/>
+		<rom name="090-m1.bin" size="131072" crc="28065668"/>
+		<rom name="090-p1.bin" size="2097152" crc="afaa4702"/>
+		<rom name="090-s1.bin" size="131072" crc="174a880f"/>
+		<rom name="090-v1.bin" size="2097152" crc="30cf2709"/>
+		<rom name="090-v3.bin" size="2097152" crc="1908a7ce"/>
+	</game>
+	<game name="wjammers">
+		<description>wjammers</description>
+		<rom name="065-c1.bin" size="1048576" crc="c7650204"/>
+		<rom name="065-c2.bin" size="1048576" crc="d9f3e71d"/>
+		<rom name="065-c3.bin" size="1048576" crc="40986386"/>
+		<rom name="065-c4.bin" size="1048576" crc="715e15ff"/>
+		<rom name="065-m1.bin" size="131072" crc="52c23cfc"/>
+		<rom name="065-p1.bin" size="1048576" crc="6692c140"/>
+		<rom name="065-s1.bin" size="131072" crc="074b5723"/>
+		<rom name="065-v1.bin" size="1048576" crc="ce8b3698"/>
+		<rom name="065-v2.bin" size="1048576" crc="659f9b96"/>
+		<rom name="065-v3.bin" size="1048576" crc="39f73061"/>
+		<rom name="065-v4.bin" size="1048576" crc="5dee7963"/>
+	</game>
+	<game name="zedblade">
+		<description>zedblade</description>
+		<rom name="076-c1.bin" size="2097152" crc="4d9cb038"/>
+		<rom name="076-c2.bin" size="2097152" crc="09233884"/>
+		<rom name="076-c3.bin" size="2097152" crc="d06431e3"/>
+		<rom name="076-c4.bin" size="2097152" crc="4b1c089b"/>
+		<rom name="076-m1.bin" size="131072" crc="7b5f3d0a"/>
+		<rom name="076-p1.bin" size="524288" crc="d7c1effd"/>
+		<rom name="076-s1.bin" size="131072" crc="f4c25dd5"/>
+		<rom name="076-v1.bin" size="2097152" crc="1a21d90c"/>
+		<rom name="076-v2.bin" size="2097152" crc="b61686c3"/>
+		<rom name="076-v3.bin" size="1048576" crc="b90658fa"/>
+	</game>
+	<game name="zintrckb">
+		<description>zintrckb</description>
+		<rom name="zin_c1.rom" size="2097152" crc="76aee189"/>
+		<rom name="zin_c2.rom" size="2097152" crc="844ed4b3"/>
+		<rom name="zin_m1.rom" size="131072" crc="fd9627ca"/>
+		<rom name="zin_p1.rom" size="1048576" crc="06c8fca7"/>
+		<rom name="zin_s1.rom" size="131072" crc="a7ab0e81"/>
+		<rom name="zin_v1.rom" size="2097152" crc="c09f74f1"/>
+	</game>
+	<game name="zupapa">
+		<description>zupapa</description>
+		<rom name="070-c1.bin" size="8388608" crc="f8ad02d8"/>
+		<rom name="070-c2.bin" size="8388608" crc="70156dde"/>
+		<rom name="070-m1.bin" size="131072" crc="5a3b3191"/>
+		<rom name="070-p1.bin" size="1048576" crc="5a96203e"/>
+		<rom name="070-v1.bin" size="2097152" crc="d3a7e1ff"/>
+	</game>
+</datafile>
